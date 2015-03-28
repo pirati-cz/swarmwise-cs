@@ -1,0 +1,82 @@
+.wrapper {
+	max-width: 1024px;
+	margin-left: auto;
+	margin-right: auto;
+	height: inherit;
+}
+
+.main {
+	margin-left: 27ex;
+	margin-right: 27ex;
+}
+
+#fixview {
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	right: 0px;
+	height: 0px;
+	overflow: visible;
+}
+
+.cover {
+	margin-left: auto;
+	margin-right: auto;
+	width: auto;
+	text-align: center;
+}
+
+.rightpanel {
+	float: right;
+	width: 26ex;
+}
+
+.leftpanel {
+	float: left;
+	width: 26ex;
+}
+
+.linkbox {
+	margin-top: 10px;
+	border: 1px solid #008000;
+	padding: 5px;
+	font-size: 90%;
+	background-color: #f0fff0;
+}
+
+.linkbox a {
+	color: #008000;
+}
+
+.pirati-logo {
+	margin-top: 5px;
+}
+
+.abstract {
+	text-align: justify;
+}
+
+.bookinfo {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.bookinfo table {
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #008000;
+	background-color: #f0fff0;
+}
+
+.bookinfo img {
+	display: block;
+}
+
+td {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+img {
+	border: none;
+}
