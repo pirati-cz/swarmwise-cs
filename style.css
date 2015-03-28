@@ -1,3 +1,7 @@
+body {
+	font-family: sans-serif;
+}
+
 .wrapper {
 	max-width: 1024px;
 	margin-left: auto;
@@ -6,8 +10,7 @@
 }
 
 .main {
-	margin-left: 27ex;
-	margin-right: 27ex;
+	margin-right: 24ex;
 }
 
 #fixview {
@@ -28,12 +31,7 @@
 
 .rightpanel {
 	float: right;
-	width: 26ex;
-}
-
-.leftpanel {
-	float: left;
-	width: 26ex;
+	width: 23ex;
 }
 
 .linkbox {
@@ -49,11 +47,15 @@
 }
 
 .pirati-logo {
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 5px;
+	text-align: center;
 }
 
 .abstract {
 	text-align: justify;
+	margin: 10px;
 }
 
 .bookinfo {
