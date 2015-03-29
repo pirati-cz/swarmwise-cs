@@ -1,0 +1,384 @@
+@font-face {
+	font-family: Cardo;
+	font-style: normal;
+	font-weight: bold;
+	src: url(fonts/Cardo-Bold.ttf);
+}
+
+@font-face {
+	font-family: Cardo;
+	font-style: italic;
+	font-weight: normal;
+	src: url(fonts/Cardo-Italic.ttf);
+}
+
+@font-face {
+	font-family: Cardo;
+	font-style: normal;
+	font-weight: normal;
+	src: url(fonts/Cardo-Regular.ttf);
+}
+
+@font-face {
+	font-family: Liberation Sans;
+	font-style: normal;
+	font-weight: bold;
+	src: url(fonts/LiberationSans-Bold.ttf);
+}
+
+@font-face {
+	font-family: Liberation Sans;
+	font-style: normal;
+	font-weight: normal;
+	src: url(fonts/LiberationSans-Regular.ttf);
+}
+
+@font-face {
+	font-family: Ubuntu;
+	font-style: italic;
+	font-weight: normal;
+	src: url(fonts/Ubuntu-RI.ttf);
+}
+
+@font-face {
+	font-family: Ubuntu;
+	font-style: normal;
+	font-weight: normal;
+	src: url(fonts/Ubuntu-R.ttf);
+}
+
+body {
+	padding: 1em;
+	font-size: 11pt;
+	font-family: Cardo;
+}
+
+ul {
+	padding-left: 15pt;
+}
+
+li p {
+	margin-top: 0pt;
+	margin-bottom: 0pt;
+}
+
+div.abstract {
+	font-weight: bold;
+}
+
+.highlights p {
+	text-align: center;
+	text-indent: 0px;
+	font-size: 12pt;
+	margin-top: 1em;
+}
+
+div.epigraph {
+	margin-top: 5em;
+	font-style: italic;
+	page-break-before: always;
+}
+
+table.important {
+	border-top: medium solid gray;
+	border-bottom: medium solid gray;
+	font-size: 13pt;
+	font-weight: bold;
+	color: gray;
+	width: 100%;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	line-height: 150%;
+	page-break-inside: avoid;
+}
+
+.important td {
+	padding: 1ex;
+}
+
+.important td.picture {
+	width: 1px;
+}
+
+.important img {
+	height: 3em;
+}
+
+.important p {
+	text-indent: 0px;
+	margin: 0px;
+}
+
+div.blockquote {
+	border-top: medium solid #C0C0C0;
+	border-bottom: medium solid #C0C0C0;
+	font-size: 13pt;
+	font-weight: normal;
+	color: gray;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 14pt;
+	margin-right: 14pt;
+	padding-top: 1ex;
+	padding-bottom: 1ex;
+	font-variant: small-caps;
+	line-height: 130%;
+	page-break-inside: avoid;
+}
+
+.blockquote img.float {
+	float: left;
+	height: 1.3em;
+	margin-right: 1ex;
+}
+
+.blockquote p {
+	text-indent: 0px;
+	margin: 0px;
+}
+
+div.attribution {
+	text-align: right;
+	font-style: italic;
+}
+
+.literal {
+	white-space: pre;
+}
+
+.attribution .literal {
+	white-space: pre-line;
+}
+
+div.literallayout {
+	white-space: pre-line;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.literallayout p {
+	text-indent: 0px;
+}
+
+.formalpara {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.formalpara .title {
+	font-weight: bold;
+}
+
+h6 {
+	font-size: 12pt;
+	font-weight: bold;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	page-break-after: avoid;
+}
+
+div.example, div.informalexample {
+	margin-top: 1em;
+	margin-bottom: 1em;
+	border: thin solid #C0C0C0;
+	background-color: #E6E6E6;
+	font-size: 11pt;
+	padding: 1em;
+}
+
+div.example > :first-child, div.informalexample > :first-child {
+	margin-top: 0px;
+}
+
+div.example > :last-child, div.informalexample > :last-child {
+	margin-bottom: 0px;
+}
+
+.term {
+	font-weight: bold;
+}
+
+div.figure, div.mediaobject {
+	width: 100%;
+	text-align: center;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	page-break-inside: avoid;
+}
+
+.mediaobject img {
+	max-width: 1000px;
+}
+
+div.toc-title {
+	font-size: 17pt;
+	font-weight: bold;
+}
+
+.toc .part > .title, .toc .appendix > .title {
+	font-size: 13pt;
+	font-weight: bold;
+	text-decoration: underline;
+	margin-top: 2em;
+	margin-bottom: 1em;
+}
+
+.toc .chapter > .title {
+	margin-top: 10pt;
+	font-weight: bold;
+}
+
+.toc .subtoc {
+	margin-left: 24pt;
+}
+
+.toc .part > .subtoc {
+	margin-left: 0pt;
+}
+
+.book > .titlepage .titlepage-recto {
+	text-align: center;
+	max-width: 360pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.impressum, .colophon {
+	font-size: 8pt;
+}
+
+.impressum .legalnotice {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+.impressum .isbn {
+	font-size: 10pt;
+	margin-top: 1em;
+}
+
+.titlepage {
+	page-break-inside: avoid;
+	page-break-after: avoid;
+}
+
+.book > .titlepage .title {
+	font-size: 52pt;
+	font-weight: normal;
+	font-variant: small-caps;
+	margin-top: 0pt;
+	margin-bottom: 6pt;
+	padding-bottom: 4pt;
+	border-bottom: 1px solid black;
+}
+
+.book > .titlepage .subtitle {
+	font-size: 16pt;
+	font-style: italic;
+	font-weight: normal;
+	margin-top: 11pt;
+	margin-bottom: 6pt;
+}
+
+.book > .titlepage .author {
+	font-size: 22pt;
+	font-weight: normal;
+	margin-top: 36pt;
+}
+
+.part > .titlepage {
+	text-align: center;
+	max-width: 360pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.part > .titlepage .title-prefix {
+	font-size: 54pt;
+	padding-bottom: 11pt;
+	margin-bottom: 26pt;
+	border-bottom: 1px solid black;
+}
+
+.part > .titlepage .title {
+	font-size: 24pt;
+}
+
+.chapter > .titlepage {
+	text-align: center;
+	max-width: 360pt;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 43pt;
+	margin-bottom: 43pt;
+}
+
+.chapter > .titlepage .title-prefix {
+	font-size: 13pt;
+	margin-bottom: 7pt;
+}
+
+.chapter > .titlepage .title {
+	font-size: 22pt;
+	font-weight: bold;
+}
+
+.section > .titlepage {
+	margin-top: 43pt;
+	margin-bottom: 21pt;
+	text-align: left;
+}
+
+.section .titlepage h2, .colophon h1 {
+	font-size: 14pt;
+	font-weight: bold;
+	page-break-after: avoid;
+}
+
+.section .titlepage h3 {
+	font-size: 13pt;
+	font-weight: bold;
+	page-break-after: avoid;
+}
+
+.front-cover, .back-cover {
+	max-width: 360pt;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #322D59;
+	font-size: 12pt;
+	color: #EBD69E;
+}
+
+.front-cover a, .back-cover a {
+	color: #EBD69E;
+	text-decoration: none;
+}
+
+.front-cover img, .back-cover img {
+	display: block;
+	max-width: 100%;
+	max-height: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.front-cover .abstract, .back-cover .abstract {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	font-weight: normal;
+}
+
+.front-cover .authorblurb, .back-cover .authorblurb {
+	padding-top: 0.5em;
+	border-top: 1pt solid #F7B632;
+	font-weight: normal;
+}
+
+.front-cover .author, .back-cover .author {
+	color: #F7B632;
+}
+
+.back-cover {
+	padding: 37pt;
+}

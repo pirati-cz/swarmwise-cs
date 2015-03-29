@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN"
+  "/usr/share/xml/docbook/schema/dtd/4.4/docbookx.dtd" [
+  <!ENTITY predmluva SYSTEM "src/00-predmluva.docbook">
+  <!ENTITY jak-chapat-hejno SYSTEM "src/01-jak-chapat-hejno.docbook">
+  <!ENTITY zakladame-hejno SYSTEM "src/02-zakladame-hejno.docbook">
+  <!ENTITY jak-hejno-zorganizovat SYSTEM "src/03-jak-hejno-zorganizovat.docbook">
+  <!ENTITY diktujte-vizi-ne-poselstvi SYSTEM "src/04-diktujte-vizi-ne-poselstvi.docbook">
+  <!ENTITY udrzujte-pozornost-na-cili SYSTEM "src/05-udrzujte-pozornost-na-cili.docbook">
+  <!ENTITY k-certu-s-demokracii SYSTEM "src/06-k-certu-s-demokracii.docbook">
+  <!ENTITY jak-prezit-rust SYSTEM "src/07-jak-prezit-rust.docbook">
+  <!ENTITY jak-vyuzit-spolecenske-procesy SYSTEM "src/08-jak-vyuzit-spolecenske-procesy.docbook">
+  <!ENTITY jak-zvladat-stara-media SYSTEM "src/09-jak-zvladat-stara-media.docbook">
+  <!ENTITY jak-prezit-uspech SYSTEM "src/10-jak-prezit-uspech.docbook">
+  <!ENTITY ostatni SYSTEM "src/11-ostatni.docbook">
+]>
+
+<book lang="cs">
+ 
+<bookinfo>
+	<title>Swarmwise</title>
+	<subtitle>Taktická příručka, jak změnit svět</subtitle>
+	<isbn>978-80-260-7487-8</isbn>
+	<author>
+		<firstname>Rick</firstname>
+		<surname>Falkvinge</surname>
+	</author>
+	<othercredit class="translator">
+		<firstname>Martin</firstname>
+		<surname>Doucha</surname>
+	</othercredit>
+	<othercredit class="translator">
+		<firstname>Adam</firstname>
+		<surname>Zábranský</surname>
+	</othercredit>
+	<othercredit class="translator">
+		<firstname>Pavel</firstname>
+		<surname>Císař</surname>
+	</othercredit>
+	<publisher>
+		<publishername>Česká pirátská strana</publishername>
+		<address>Řehořova 943/19, 130&nbsp;00 Praha&nbsp;3</address>
+	</publisher>
+
+	<authorblurb>v&nbsp;roce 2006 založil první Pirátskou stranu na&nbsp;světě. V&nbsp;roce 2011 jej časopis <emphasis>Foreign Policy</emphasis> zařadil mezi&nbsp;100 největších světových myslitelů a v&nbsp;roce 2012 byl časopisem <emphasis>TIME</emphasis> vybrán do&nbsp;hlasování o&nbsp;100 nejvlivnějších lidí světa. V&nbsp;současnosti píše sloupky pro&nbsp;<emphasis>CNN</emphasis>, <emphasis>Russia Today</emphasis> a <emphasis>TorrentFreak</emphasis>. Jeho osobní blog je na&nbsp;adrese <ulink url="http://falkvinge.net">http://falkvinge.net</ulink>.</authorblurb>
+
+	<abstract>
+		<para>V&nbsp;roce 2006 se Rick Falkvinge rozhodl změnit svět k&nbsp;lepšímu. Zvolil k&nbsp;tomu netradiční postup a založil úplně první Pirátskou stranu. Po&nbsp;necelých deseti letech fungují Pirátské strany ve&nbsp;více než 70 různých zemích a z&nbsp;pirátského hnutí se stala významná politická síla.</para>
+
+		<para><emphasis>Swarmwise</emphasis> popisuje, jak jeden člověk sám dokázal vytvořit globální fenomén prosazující politické změny. Zároveň je to taktický manuál, jak i vy můžete využít moci hejna a nasměrovat jeho sílu na&nbsp;své cíle. Přitom nehraje roli, jestli se snažíte změnit pravidla hry v&nbsp;byznysu, v&nbsp;politice nebo u&nbsp;společenských norem, a je to obzvláště výhodné, když nemáte žádné peníze a jen málo času.</para>
+	</abstract>
+
+	<legalnotice>
+		<para>Toto je Swarmwise verze 1.1 (první vydání, druhá revize). Rozdíly oproti&nbsp;první vydané revizi jsou převážně kosmetické.</para>
+
+		<para>Tuto knihu smíte kopírovat dle&nbsp;libosti a sdílet kopie s&nbsp;přáteli i cizími lidmi, pokud uvedete autora a nebudete je prodávat. Vlastně, sdílet kopie s&nbsp;přáteli nejen <emphasis>smíte</emphasis>, ale dokonce se to od&nbsp;vás <emphasis>žádá</emphasis>. Pokud se vám tato kniha líbí, proč byste ji neměli sdílet se&nbsp;svými přáteli?</para>
+
+		<para>Formálně tato kniha podléhá kopírovacímu monopolu do&nbsp;1.&nbsp;ledna 2034 — dvacet let od&nbsp;zveřejnění. Po&nbsp;tuto dobu je zveřejněna pod&nbsp;licencí Creative Commons Uveďte <literal>autora-Neužívejte</literal> komerčně 3.0, což znamená přesně to, co je výše uvedeno o&nbsp;volném sdílení. Jsou to stejné podmínky, které autor navrhoval ve&nbsp;své předchozí knize <emphasis>The Case for Copyright Reform</emphasis>. Výhradní komerční práva náleží autorovi po&nbsp;dobu dvaceti let.</para>
+	</legalnotice>
+
+	<copyright>
+		<year>2013</year>
+		<holder>Rick Falkvinge</holder>
+	</copyright>
+	<copyright role="translation">
+		<year>2014</year>
+		<holder>Martin Doucha</holder>
+		<holder>Adam Zábranský</holder>
+		<holder>Pavel Císař</holder>
+	</copyright>
+</bookinfo>
+
+&predmluva;
+
+<part id="budovani-hejna">
+<title>Budování hejna</title>
+&jak-chapat-hejno;
+&zakladame-hejno;
+&jak-hejno-zorganizovat;
+&diktujte-vizi-ne-poselstvi;
+</part>
+
+<part id="vedeni-hejna">
+<title>Vedení hejna</title>
+&udrzujte-pozornost-na-cili;
+&k-certu-s-demokracii;
+&jak-prezit-rust;
+</part>
+
+<part id="dosahovani-vysledku">
+<title>Dosahování výsledků s&nbsp;pomocí hejna</title>
+&jak-vyuzit-spolecenske-procesy;
+&jak-zvladat-stara-media;
+&jak-prezit-uspech;
+</part>
+
+&ostatni;
+
+<colophon>
+<literallayout>Z&nbsp;anglického originálu Swarmwise,
+vydaného nakladatelstvím CreateSpace Publishing Platform,
+v&nbsp;North Charlestonu, Jižní Karolíně v&nbsp;roce 2013,
+přeložil Martin Doucha, Adam Zábranský, Pavel Císař.
+Vydala Česká pirátská strana,
+Řehořova 943/19, 130&nbsp;00 Praha&nbsp;3.
+Tisk: Tribun EU s.r.o., Cejl 892/32, 602&nbsp;00 Brno
+</literallayout>
+</colophon>
+</book>

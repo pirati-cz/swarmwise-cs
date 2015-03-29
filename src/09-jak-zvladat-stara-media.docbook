@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter id="jak-zvladat-stara-media">
+<title>Jak zvládat stará média</title>
+
+<abstract>
+<para>I když by spousta lidí chtěla změnu světa řešit úplně po&nbsp;svém, stávající systémy nemůžete změnit, aniž byste se částečně nestali jejich součástí a neměnili je zevnitř. Každý může něco změnit, ale nikdo nedokáže změnit všechno. Vaše hejno pravděpodobně není zaměřené na&nbsp;změnu fungování starých médií, takže se s&nbsp;nimi vypořádáte takto.</para>
+</abstract>
+
+<para>Když mluvíme o&nbsp;„starých médiích,“ tento pojem je protikladem „nových médií“ (sociálních médií), tedy označuje jakékoliv tradiční jednosměrné velkoplošné zpravodajství, kde lidé obecně nepřispívají, nediskutují a nekritizují. Typickým příkladem starých médií jsou televize, rozhlas a papírové noviny. Tato stará média si stále udržují značnou váhu při&nbsp;formování veřejného mínění, zvláště s&nbsp;přihlédnutím ke&nbsp;generační digitální propasti, takže naučit se hrát na&nbsp;tomto hřišti je klíčové. Reportéři starých médií naštěstí hledají nové události prostřednictvím&nbsp;kanálů nových médií — a zde přichází na&nbsp;řadu <indexterm><primary>Rychlost</primary></indexterm>rychlostní výhoda hejna.</para>
+
+<para>Spousta organizací, které se chtějí dostat do&nbsp;novin nebo televize, se tam snaží protlačit svoje vlastní zprávy, a tomu podřizují své mediální strategie. To je nejen neefektivní, ale přímo kontraproduktivní. Abyste do&nbsp;starých médií dostali své citáty a název hejna, stačí jen reportérům pomoci napsat skvělý článek: představte si sami sebe na&nbsp;místě reportéra a zamyslete se, co by v&nbsp;danou chvíli potřeboval.</para>
+
+<para>Představte si například, že se na&nbsp;Twitteru objeví nějaká mediálně zajímavá zpráva týkající se vašeho hejna a váš instinkt vám říká, že stará média o&nbsp;ní nejspíše vydají článek. V&nbsp;tu chvíli vám začíná běžet čas. Reportéři čtou na&nbsp;Twitteru stejné kanály jako vy a článek začínají psát v&nbsp;okamžiku, kdy se tweet objeví. Co právě v&nbsp;tu chvíli potřebují?</para>
+
+<para>Potřebují komentáře a citáty k&nbsp;dané události na&nbsp;zpestření reportáže.</para>
+
+<para>Napsat hrubou verzi článku jim zabere třicet až čtyřicet minut a vydají ho za&nbsp;šedesát. Na&nbsp;dodání svých komentářů a citátů tak máte třicet minut. Když to stihnete, pomáháte tím reportérům napsat dobrý a vyvážený článek a vaše citáty se dostanou do&nbsp;rozepsaného článku starých médií. Čas už vám běží: tik, ťak, tik, ťak.</para>
+
+<para>Vydat tiskovou zprávu během&nbsp;třiceti minut je těžké, ale rozhodně zvládnutelné. U&nbsp;tiskových zpráv se očekává, že budou dodržovat určitý formát a obsahovat určitá klíčová slova. Podle&nbsp;mých zkušeností je jedním z&nbsp;nejefektivnějších způsobů psaní tiskových zpráv v&nbsp;hejnu využití Etherpadu nebo nějakého jiného víceuživatelského poznámkového bloku, ve&nbsp;kterém všichni výsledný dokument editují současně. Když budou lidé dostatečně znát vaše hejno, jeho myšlenky a styl argumentace, tak dobrovolníci z&nbsp;hejna, kteří se vrhnou na&nbsp;pomoc se&nbsp;psaním tiskové zprávy, dají dohromady v&nbsp;nejhorším případě celkem rozumné komentáře, a v&nbsp;nejlepším případě naprosto geniální komentáře. Později si v&nbsp;této kapitole ještě řekneme, kdo má psát tiskové zprávy a proč.</para>
+
+<para>Vydávání tiskových zpráv si musíte natrénovat a snažit se je odeslat během&nbsp;zhruba pětadvaceti minut od&nbsp;oznámení o&nbsp;samotné události. Je to těžké, ale zvládnutelné. Náš časový plán ve&nbsp;švédské Pirátské straně vypadal přibližně takto:</para>
+
+<para>Během&nbsp;prvních pěti minut po&nbsp;oznámení události jsme rozhodovali, jestli tiskovou zprávu vydáme, nebo ne.</para>
+
+<para>Během&nbsp;dalších pěti minut, celkem deset minut po&nbsp;oznámení, jsme se dohodli na&nbsp;směřování tiskové zprávy a obecném rázu našich citátů.</para>
+
+<para>Dalších deset minut bylo potřeba, aby tři až pět lidí společně napsalo tiskovou zprávu podle&nbsp;šablony. Hrubý text jsme tedy měli připravený během&nbsp;dvaceti minut od&nbsp;prvního zjištění o&nbsp;dané události.</para>
+
+<para>Dalších asi pět minut zabralo sehnání tří souhlasů (naše schvalovací metoda) a odeslání hotové tiskové zprávy novinářům.</para>
+
+<para>Tyto čtyři kroky nám trvaly dohromady dvacet pět minut.</para>
+
+<important><para>Tiskové zprávy musíte zvládat odeslat během&nbsp;25&nbsp;minut, od&nbsp;prvotní myšlenky po&nbsp;rozeslání.</para></important>
+
+<para>Dokončený hrubý text snadno můžete donekonečna vylepšovat, zatímco minuty utíkají. Každá ztracená minuta v&nbsp;této fázi zvyšuje pravděpodobnost, že reportér starých médií již bude mít článek dopsaný — a po&nbsp;jeho vydání už se neobtěžujte tiskovou zprávu posílat; reportéři se tou dobou již pustili do&nbsp;práce na&nbsp;jiné zprávě, a když jim v&nbsp;tu chvíli přijde do&nbsp;ruky vaše tisková zpráva, jen je to naštve.</para>
+
+<para>Pro&nbsp;rozesílání reportérům používáme obyčejný <indexterm><primary>WordPress</primary></indexterm>WordPressový blog, protože lidé většinou mají zkušenosti s&nbsp;vkládáním článků do&nbsp;<indexterm><primary>WordPress</primary></indexterm>WordPressu. Speciální nástroj pak vezme každý nově vložený článek a rozešle ho dlouhému seznamu novinářů profiltrovanému podle&nbsp;kategorií, do&nbsp;kterých je článek ve&nbsp;<indexterm><primary>WordPress</primary></indexterm>WordPressu zařazen. Vy můžete používat v&nbsp;podstatě libovolný nástroj, který umějí ovládat aktivisté vašeho hejna, uchovává historii (potřebujete veřejně přístupný archiv tiskových zpráv — <indexterm><primary>WordPress</primary></indexterm>WordPress zde opět vyhrává) a rychle rozešle novou tiskovou zprávu.</para>
+
+<para>Takže jak vypadá tisková zpráva a k&nbsp;čemu slouží? Tisková zpráva je v&nbsp;nejzákladnější podobě jen dopis odeslaný nějakému novináři. (Budete si muset udržovat seznam reportérů píšících o&nbsp;tématech souvisejících s&nbsp;vaším hejnem.) Šablona, kterou jsme používali ve&nbsp;švédské Pirátské straně, vypadá takto:</para>
+
+<informalexample>
+<literallayout>Tisková zpráva — název organizace — datum a čas</literallayout>
+
+<literallayout>K&nbsp;OKAMŽITÉMU VYDÁNÍ</literallayout>
+
+<literallayout>Nadpis</literallayout>
+
+<literallayout>Úvodní odstavec (začíná názvem místa)</literallayout>
+
+<literallayout>Citát</literallayout>
+
+<literallayout>Fakt</literallayout>
+
+<literallayout>Citát</literallayout>
+
+<literallayout>Fakt</literallayout>
+
+<literallayout>Závěrečný citát</literallayout>
+
+<literallayout>Pro&nbsp;více informací</literallayout>
+
+<literallayout>O&nbsp;organizaci</literallayout>
+
+<literallayout>KONEC</literallayout>
+</informalexample>
+
+<para>Jednotlivé výše uvedené položky mají svůj význam. Slova „K&nbsp;okamžitému vydání“ v&nbsp;záhlaví jsou klíčovou frází, která starým médiím říká, že mohou zprávu otisknout okamžitě, což bude platit prakticky pro&nbsp;všechny vaše tiskové zprávy. Dále, smyslem nadpisu je zaujmout reportéra, aby si přečetl zbytek dopisu, takže to nemusí být naprosto dokonalý titulek pro&nbsp;danou zprávu, musí být jen dostatečně přesný a <emphasis>zajímavý</emphasis>. Pak následuje obsah zprávy nejprve stručně shrnutý v&nbsp;úvodním odstavci a dále střídavě fakta a citáty. Položka „Pro&nbsp;více informací“ je zásadní — musí tam být telefonní číslo a/nebo <literal>e-mailová</literal> adresa (nebo jiný přímý kontakt) na&nbsp;člověka, od&nbsp;kterého může reportér okamžitě získat exkluzivní výroky.</para>
+
+<para>Tisková zpráva by se měla co nejvíce podobat hotovému novinovému článku. Čím více textu bude moci reportér starých médií beze&nbsp;změn zkopírovat, tím více práce za&nbsp;něj děláte a tím větší je šance, že se do&nbsp;výsledného článku dostanete.</para>
+
+<para>Někdo by mohl namítat, že prvořadým cílem tiskové zprávy je, aby reportér napsal úplně nový článek. K&nbsp;tomu se vrátíme dále v&nbsp;této kapitole, až budeme probírat <indexterm><primary>Reprezentativní tvář</primary></indexterm>reprezentativní tváře hejna.</para>
+
+<para>Zde je příklad tiskové zprávy:</para>
+
+<informalexample>
+<literallayout>Tisková zpráva — Švédská Pirátská strana — 2.&nbsp;července 2010
+K&nbsp;OKAMŽITÉMU VYDÁNÍ</literallayout>
+
+<title>PIRÁTSKÁ STRANA: „PIRATE BAY BUDEME PROVOZOVAT Z&nbsp;BUDOVY PARLAMENTU“</title>
+
+<abstract>
+<para>Stockholm, Švédsko — Pirátská strana dnes oznámila překvapivý předvolební slib, že její budoucí poslanci budou Pirate Bay provozovat přímo uvnitř samotného parlamentu. Odvolávají se tím na&nbsp;poslaneckou imunitu vůči&nbsp;trestnímu stíhání za&nbsp;politickou činnost, čímž by Pirate Bay získala úplnou právní imunitu.</para>
+</abstract>
+
+<para>„Dnes podnikáme nové odvážné kroky na&nbsp;ochranu budoucí generace podnikatelů,“ uvedl Rick Falkvinge, předseda Pirátské strany. „Když Pirate Bay ochráníme před&nbsp;záplavou právní palby, vyšleme tím světu jasný signál, že Švédsko je velmocí v&nbsp;oboru služeb příští generace. Takže je to jasně srozumitelný předvolební slib.“</para>
+
+<para>Strana oznámením tohoto předvolebního slibu udělala z&nbsp;provozu Pirate Bay z&nbsp;principu politickou činnost — a poslance podle&nbsp;švédské ústavy není možné trestně stíhat ani žalovat za&nbsp;provádění politické činnosti v&nbsp;parlamentu.</para>
+
+<para>„Nehodláme a nesmíme akceptovat systematické torpédování našich budoucích podnikatelů kopírovacím průmyslem,“ říká Falkvinge. „Jejich právní kobercové nálety by měly být nelegální — profesionální sabotéři jsou profesionální zločinci, ať už je platí kdokoliv.“</para>
+
+<para>Na&nbsp;jaře měla Pirate Bay problém najít stálého poskytovatele internetového připojení, než zakročila Pirátská strana a sama se stala novým poskytovatelem připojení pro&nbsp;Pirate Bay. Lobby kopírovacího průmyslu poté omezila svoji šikanu, protože před&nbsp;volbami nechtěla přitahovat pozornost k&nbsp;Pirátské straně. Falkvinge dodává:</para>
+
+<para>„Švédská Pirátská strana přebírá zodpovědnost za&nbsp;budoucí švédskou ekonomiku a podnikání,“ uzavírá Falkvinge. „Předvádíme to nejen slovy, ale i osobními činy. Každý den.“</para>
+
+<formalpara>
+<title>Pro&nbsp;více informací:</title>
+
+<para>Rick Falkvinge, telefon +46&nbsp;708&nbsp;303600</para>
+
+<para>Navštivte <ulink url="http://press.piratpartiet.se/">http://press.piratpartiet.se/</ulink> pro&nbsp;propagační fotky, ilustrační videa atd.</para>
+</formalpara>
+
+<formalpara>
+<title>O&nbsp;Pirátské straně:</title>
+
+<para>Švédská Pirátská strana byla v&nbsp;eurovolbách největší stranou ve&nbsp;skupině do&nbsp;třiceti let, získala dvě křesla v&nbsp;Evropském parlamentu a 19.&nbsp;září 2010 se bude účastnit parlamentních voleb na&nbsp;všech úrovních. Bojuje za&nbsp;občanské svobody a podnikání příští generace.</para>
+</formalpara>
+
+<literallayout>KONEC</literallayout>
+</informalexample>
+
+<para>Tento příklad tiskové zprávy popisující skutečnou událost, která ve&nbsp;starých médiích přinesla skvělý mediální zásah ve&nbsp;všech možných jazycích od&nbsp;angličtiny přes&nbsp;thajštinu a řečtinu až po&nbsp;čínštinu, nás přivádí k&nbsp;dalšímu bodu: <emphasis>provokujte</emphasis>. Když nikoho neštvete, nejspíše neděláte nic užitečného. <emphasis>Bavte se</emphasis> a zároveň naštvěte své protivníky: tím hejno nejen získá více aktivistů, jak jsme viděli v&nbsp;kapitolách&nbsp;7 a&nbsp;8, ale zároveň vám to značně zpříjemní práci v&nbsp;hejnu. A navíc vám to zaručí spoustu mediální pozornosti. Stará média prostě <emphasis>milují</emphasis> provokace.</para>
+
+<para>Ještě jednou si to zopakujme, protože je to důležité: pokud nikoho neštvete, nejspíše neděláte nic užitečného. Nemějte strach, že lidé začnou křičet. To je signál, že něco děláte <emphasis>správně</emphasis>.</para>
+
+<important><para>Pokud nikoho neštvete, nejspíše neděláte nic užitečného.</para></important>
+
+<para>U&nbsp;této konkrétní vzorové tiskové zprávy nebylo načasování podstatné — brzy zjistíte, že tiskové zprávy se z&nbsp;hlediska načasování dělí do&nbsp;čtyř skupin:</para>
+
+<para>První skupinu představují tiskové zprávy reagující na&nbsp;aktuální události, ve&nbsp;kterých novinářům poskytujete komentáře. Ty byste měli být připraveni rozesílat neustále 24&nbsp;hodin denně 7&nbsp;dní v&nbsp;týdnu, například tak, že budete mít dostatek aktivistů v&nbsp;nějakém virtuálním mediálním štábu schopném komunikovat se&nbsp;starými médii. Když bude mít štáb dost členů — řekněme nějakých třicet aktivistů (podle&nbsp;pravidel o&nbsp;velikostech skupin, která jsme probrali v&nbsp;kapitole&nbsp;3) — pak jich v&nbsp;libovolnou denní dobu bude vzhůru dostatečný počet, aby stíhali zpracovat čerstvé události. Zkraťte reakční dobu pod&nbsp;třicet minut a pamatujte, že lidé budou chtít zprávu donekonečna vylepšovat, což stojí čas. Zpráva musí být rozumně dobrá a bez&nbsp;pravopisných chyb; na&nbsp;každé minutě záleží.</para>
+
+<para>Druhou skupinu tvoří komentáře k&nbsp;velkým událostem, u&nbsp;kterých je doba konání předem známa, ale ještě není znám jejich výsledek (například k&nbsp;významným soudním rozsudkům). V&nbsp;tomto případě budou mít reportéři napsaných několik článků připravených k&nbsp;okamžitému vydání — obvyklý šedesátiminutový interval na&nbsp;reakci zde neplatí. I vy byste měli mít několik tiskových zpráv připravených k&nbsp;odeslání, až čtyři různé verze pro&nbsp;různé výsledky dané události. V&nbsp;tomto případě je musíte odeslat do&nbsp;pěti minut, ideálně během&nbsp;120&nbsp;sekund. To znamená, že jeden člověk musí vybrat správnou verzi hotové tiskové zprávy, vyplnit prázdná místa (například podrobnosti rozsudku) a okamžitě ji odeslat.</para>
+
+<para>Třetí skupinu tvoří oznámení starým médiím o&nbsp;něčem, co budete dělat později během&nbsp;dne, například když pořádáte demonstraci nebo budete posílat květiny odpůrcům („když je nemůžete přesvědčit, tak je popleťte“). Načasování takové tiskové zprávy závisí na&nbsp;typu plánované akce. Pokud stará média mohou na&nbsp;vaši akci poslat fotografy, měli byste zprávu odeslat v&nbsp;den konání akce brzy ráno, před&nbsp;ranní redakční poradou — pokud ji odešlete předcházející večer, v&nbsp;době ranní porady to již bude stará zpráva. Podle&nbsp;mých zkušeností je dobrý čas kolem&nbsp;6:30&nbsp;ráno. Naopak pokud fotografy starých médií nemůžete očekávat, čeká se od&nbsp;vás, že fotky a/nebo videa z&nbsp;akce dodáte sami, čímž značně zvýšíte šanci, že o&nbsp;vás vznikne zajímavá reportáž (porovnejte s&nbsp;pasáží z&nbsp;kapitoly&nbsp;4 o&nbsp;natáčení demonstrací HD kamerou na&nbsp;stativu). Tento typ tiskových zpráv můžete beze&nbsp;spěchu napsat předcházející den nebo večer a nastavit jejich automatické odeslání (pomocí&nbsp;<indexterm><primary>WordPress</primary></indexterm>WordPressu nebo podobného nástroje) na&nbsp;6:30&nbsp;ráno.</para>
+
+<para>Čtvrtá skupina jsou připomenutí starým médiím, že se něco chystáte udělat. Reportéři jsou jen lidé, a lidé potřebují připomenutí, že se brzy stane něco důležitého. V&nbsp;případě politické strany by to mohla být povolební večeře, o&nbsp;které rozešlete tiskovou zprávu s&nbsp;informacemi o&nbsp;místě, čase a akreditacích například čtrnáct dní předem, a pak ještě připomenutí třeba sedm dní předem.</para>
+
+<para>Měli byste si všimnout, že tu chybí pokyny, jak starým médiím říkat o&nbsp;svých obecných <emphasis>názorech</emphasis> nebo <emphasis>pocitech</emphasis>, ale jsou tu pokyny, jak je informovat o&nbsp;svých činech. Stará média <emphasis>nezajímá</emphasis>, co si lidé myslí nebo cítí; zajímá je, co <emphasis>dělají</emphasis>. Redakce sice dávají nějaký prostor pro&nbsp;komentáře k&nbsp;činům někoho jiného, ale nedávají prostor pro&nbsp;názory bez&nbsp;souvislosti s&nbsp;nějakým konkrétním činem.</para>
+
+<para>(Význačnou výjimkou z&nbsp;tohoto pravidla jsou polemické články, takzvané <indexterm><primary>Op-edy</primary></indexterm><literal>op-edy</literal>, ke&nbsp;kterým se ještě vrátíme dále v&nbsp;této kapitole.)</para>
+
+
+<section id="obsadte-sve-tema-ve-starych-mediich">
+<title>Obsaďte své téma ve&nbsp;starých médiích</title>
+
+<para>Klíčovým konceptem pro&nbsp;práci se&nbsp;starými médii je „obsazení tématu.“ V&nbsp;podstatě to znamená, že vaše hejno musí být tak úzce spjato se&nbsp;svými hlavními tématy nebo prodávanými produkty, že kdykoliv stará média narazí na&nbsp;související událost, zavolají vám s&nbsp;žádostí o&nbsp;komentář.</para>
+
+<important><para>Strategicky je naprosto zásadní, aby vaše hejno obsadilo svá témata ve&nbsp;všech starých médiích nebo alespoň jejich většině.</para></important>
+
+<para>Strategicky je to naprosto zásadní, a pokud se u&nbsp;stejného tématu snaží podobně prorazit i jiní, může vám získání takové pozice trvat celé roky. Švédská Pirátská strana ve&nbsp;starých médiích rychle obsadila téma sdílení souborů, ale obsadit jeho obecnější variantu — téma soukromí a občanských svobod v&nbsp;legislativě — nám trvalo několik let. Přesněji nám to trvalo od&nbsp;1.&nbsp;ledna 2006 do&nbsp;18.&nbsp;června 2008, kdy jsme uspořádali nepřehlédnutelné demonstrace proti&nbsp;novému švédskému zákonu o&nbsp;plošném sledování.</para>
+
+<para>V&nbsp;ideálním případě se chcete dostat do&nbsp;pozice, kdy vám reportéři starých médií budou pravidelně volat s&nbsp;dotazem, jestli ke&nbsp;svému tématu nemáte nějakou zatím nevydanou zprávu. My jsme v&nbsp;takové pozici byli celý týden následující po&nbsp;razii v&nbsp;Pirate Bay provedené 31.&nbsp;května 2006, protože jsme seděli na&nbsp;spoustě materiálů. Když vám takto volají a vy dokážete reportérům dávat zatím nevydané zprávy, tak fakticky řídíte <indexterm><primary>Zpravodajství</primary></indexterm>zpravodajství o&nbsp;svém tématu.</para>
+</section>
+
+<section id="medialni-prulomy">
+<title>Mediální průlomy</title>
+
+<para>Stará média se o&nbsp;novém hejnu ani nezmíní, dokud neudělá něco významného. To, že existujete a máte nějaké názory, není samo o&nbsp;sobě zajímavé. Než se vám podaří zajímavý průlom do&nbsp;starých médií, nejspíše budete muset několik měsíců pilně pracovat — Internet objevuje nové talenty mnohem rychleji než stará média.</para>
+
+<para>Jenže až průlom do&nbsp;starých médií nastane, tak vám určitě neunikne. Velmi pravděpodobně nastane souběžně s&nbsp;aktivistickou <indexterm><primary>Vertikalita</primary></indexterm>vertikalitou, kterou jsme probírali v&nbsp;kapitole&nbsp;7 — když se hnutí dramaticky rozroste v&nbsp;důsledku nějaké velké události, pro&nbsp;stará média je to vždy zajímavé. Celý týden budete každou celou hodinu v&nbsp;televizi prakticky na&nbsp;všech kanálech a žádosti z&nbsp;novin o&nbsp;napsání krátkých i dlouhých <indexterm><primary>Op-edy</primary></indexterm><literal>op-edů</literal> nebudou brát konce. (K&nbsp;<indexterm><primary>Op-edy</primary></indexterm><literal>op-edům</literal> se za&nbsp;chvíli vrátíme.)</para>
+</section>
+
+<section id="gandhiho-stupnice-je-vystizna">
+<indexterm class="startofrange" id="index-gandhiho-stupnice-sekce"><primary>Gándhího stupnice</primary></indexterm>
+<title>Gándhího stupnice je výstižná</title>
+
+<para>Gándhí kdysi řekl: „Nejprve vás ignorují, pak se vám vysmívají, pak proti&nbsp;vám bojují, pak zvítězíte.“ To je až děsivě výstižný popis prezentování převratného nebo provokativního hejna ve&nbsp;starých médiích.</para>
+
+<blockquote><para>„Nejprve vás ignorují, pak se vám vysmívají, pak proti&nbsp;vám bojují, pak zvítězíte.“</para>
+<attribution>Mahátma Gándhí</attribution></blockquote>
+
+<para>Důsledky tohoto faktu pak ve&nbsp;vás snadno mohou vyvolat mylný dojem. Když po&nbsp;měsících tvrdé práce s&nbsp;cílem vydobýt si trochu pozornosti začnou ve&nbsp;starých médiích vycházet články, které vás vykreslují jako stupidní šašky, snadno a logicky vás to může deprimovat. Musíte vědět — abyste to logicky pochopili — že posměch je oproti&nbsp;úplné netečnosti významným krokem <emphasis>vpřed</emphasis> a je nezbytnou etapou na&nbsp;cestě k&nbsp;vítězství. Články tak můžeme dělit na&nbsp;typ G2, G3 a G4 — typ G2 je druhý stupeň na&nbsp;Gándhího stupnici, tedy článek zesměšňující vaše hejno a jeho úsilí.</para>
+<indexterm class="endofrange" startref="index-gandhiho-stupnice-sekce"/>
+</section>
+
+<section id="kdo-ma-psat-tiskove-zpravy">
+<title>Kdo má psát tiskové zprávy?</title>
+
+<para>Jak již bylo zmíněno dříve, budete potřebovat mediální minihejno sestávající nejvýše ze&nbsp;třiceti lidí. Tahle skupina by mohla sídlit ve&nbsp;vámi zvoleném chatovacím kanálu — na&nbsp;Skypu, IRC, XMPP, Mumble atd. — a pokud možno by se měla skládat z&nbsp;lidí, kteří jsou aktivní v&nbsp;jinou denní dobu, takže statisticky budou alespoň tři lidé neustále připravení reagovat na&nbsp;čerstvé události tiskovou zprávou.</para>
+
+<para>Toto minihejno by mělo být autonomní a mělo by mít neomezené zplnomocnění nezávisle mluvit jménem hejna, stejně jako každý jednotlivý aktivista, jak jsme probírali v&nbsp;kapitole&nbsp;4 o&nbsp;rozmanitosti. Pokud chcete kompromis, můžete zavést <indexterm><primary>Pravidlo tří aktivistů</primary></indexterm>pravidlo tří aktivistů, že před&nbsp;odesláním tiskové zprávy ji musejí schválit tři členové mediálního minihejna. Nikdy byste ale neměli vyžadovat schválení od&nbsp;konkrétních vybraných lidí, protože mohou být z&nbsp;bezpočtu důvodů nedostupní, a tím brzdit práci.</para>
+
+<para>Jedním z&nbsp;hlavních problémů takové skupiny je fakt, že určitý typ aktivistů vnímá mediální povinnosti jako významnou úlohu — čtěte „prestižní“ úlohu — a takoví lidé se budou tlačit do&nbsp;mediálního týmu jen proto, aby v&nbsp;něm byli, místo&nbsp;aby efektivně pracovali se&nbsp;starými médii. Budete muset dávat pozor, aby do&nbsp;tohoto minihejna nevstupovali lidé, kteří by zabírali místo někomu užitečnějšímu.</para>
+</section>
+
+<section id="reprezentativni-tvare-hejna">
+<indexterm class="startofrange" id="index-reprezentativni-tvar-sekce"><primary>Reprezentativní tvář</primary></indexterm>
+<title>Reprezentativní tváře hejna</title>
+
+<para>To nás přivádí k&nbsp;otázce reprezentativních tváří hejna. Když pracujete se&nbsp;starými médii, hejno musí ukazovat světu jeden jediný obličej. Typicky to bude vůdce nebo zakladatel hejna (vy). Musíte si uvědomit, že je to <emphasis>reprezentativní</emphasis> tvář — nejste to vy jako osoba, ale tvář zastupující širší a zcela konkrétní hnutí.</para>
+
+<para>Takovou tvář najdete i v&nbsp;příkladu tiskové zprávy uvedeném dříve v&nbsp;této kapitole: „Rick Falkvinge, předseda Pirátské strany, říká…“</para>
+
+<para>Některá hejna v&nbsp;minulosti zkoušela fungovat bez&nbsp;podobné reprezentativní tváře, a brzy zjistila, že to na&nbsp;stará média ani trochu nefunguje. Jednoduše řečeno, každé hejno potřebuje představitele — ztělesnění hejna — aby mohlo vystupovat ve&nbsp;starých médiích.</para>
+
+<important><para>Každé hejno potřebuje jednu reprezentativní tvář — ztělesnění hejna — pro&nbsp;stará média.</para></important>
+
+<para>Krátce po&nbsp;mediálním průlomu část aktivistů, kteří do&nbsp;mediálního týmu vstoupili jen proto, aby mohli říkat, že „pracují s&nbsp;médii,“ začne požadovat, aby u&nbsp;citátů v&nbsp;tiskových zprávách bylo napsané <emphasis>jejich</emphasis> jméno. Oni je přece napsali, tak proč by pod&nbsp;nimi nemohli být podepsaní? (Někteří by o&nbsp;takových lidech řekli, že trpí chorobnou touhou být středem pozornosti. Je to sice nelichotivý popis, ale z&nbsp;čistě věcného hlediska jejich stav vystihuje celkem přesně.)</para>
+
+<para>V&nbsp;takovou chvíli je třeba pamatovat, že smyslem tiskové zprávy je dostat název hejna do&nbsp;starých médií, a proto musíte hrát podle&nbsp;pravidel starých médií. Jedna organizace, jedna tvář. Existují výjimky, ale ty jsou tak velké a důkladně etablované, že pro&nbsp;vaše hejno neplatí.</para>
+
+<para>Právě proto naopak musíte mediální minihejno naučit, že má psát citáty vaším jménem, jménem vůdce nebo zakladatele hejna. Pokud jste dostatečně dlouho pracovali v&nbsp;mediálním týmu a sami jste napsali dost tiskových zpráv, pak toto minihejno bude vědět, jaké věci byste v&nbsp;dané situaci řekli, a zvládne vydat tiskovou zprávu s&nbsp;citáty napsanými vaším jménem bez&nbsp;čekání na&nbsp;váš souhlas. Budete žasnout, jak chytře můžete působit, když za&nbsp;sebe necháte vymýšlet citáty ostatní, aniž by se vás museli ptát.</para>
+<indexterm class="endofrange" startref="index-reprezentativni-tvar-sekce"/>
+</section>
+
+<section id="vystupovani-pred-kamerami">
+<title>Vystupování před&nbsp;kamerami: Buďte tam, kde jsou kamery</title>
+
+<para>Co nejvíce se snažte být na&nbsp;místech, kde se dějí nejdůležitější věci pro&nbsp;vaše hejno. „Poslat někoho“ nestačí — <indexterm><primary>Reprezentativní tvář</primary></indexterm>reprezentativní tváře hejna, tedy typicky vy, musejí být u&nbsp;nejdůležitějších událostí. Pro&nbsp;vaši osobní přítomnost je několik důvodů.</para>
+
+<para>Prvním důvodem je, že pokud jste události sledovali na&nbsp;vlastní oči, můžete o&nbsp;nich informovat, diskutovat a debatovat z&nbsp;první ruky. Pro&nbsp;důvěryhodnost je to zásadní: když můžete říct „já u&nbsp;toho byl, a vy ne,“ budete mít v&nbsp;každé debatě obrovskou převahu. Druhým důvodem je, že chcete mít vlastní videozáznam důležitých událostí, ve&nbsp;kterém vystupuje <indexterm><primary>Reprezentativní tvář</primary></indexterm>reprezentativní tvář hejna, abyste jej pak mohli nabídnout starým médiím k&nbsp;sestříhání na&nbsp;ilustrační záběry.</para>
+
+<para>Ale třetím a zásadním důvodem je, že pokud jsou na&nbsp;místě televizní zpravodajské štáby, pak budou chtít nějaké zajímavé záběry. Nejspíše si připraví kameru s&nbsp;velkým předstihem, doladí si osvětlení a zvuk, a potom nebudou mít na&nbsp;práci nic víc, než čekat, až se to cosi začne dít. Jestli se vašemu hejnu podařilo obsadit téma související s&nbsp;danou událostí, k&nbsp;vystoupení v&nbsp;televizi vám stačí prostě přijít k&nbsp;televiznímu štábu, představit se, dát jim vizitku a říct: „Jestli chcete mé vyjádření k&nbsp;téhle události, bude mi potěšením.“ V&nbsp;žádném případě nebuďte nijak dotíraví — zpravodajské štáby to nesnášejí — ale buďte přátelští a řekněte jim, že jste tady a k&nbsp;dispozici.</para>
+
+<para>Nejčastěji po&nbsp;příležitosti získat vaše vyjádření okamžitě skočí. Přece jen je to pro&nbsp;ně mnohem lepší využití času než jen postávat kolem a nenatočit vůbec nic. Pro&nbsp;vás je úspěchem samozřejmě to, že vaše vyjádření půjde do&nbsp;střižny večerních televizních zpráv — a nejčastěji se některý váš výrok do&nbsp;vysílání dostane, jen díky&nbsp;tomu, že jste zašli za&nbsp;televizním štábem a pozdravili je.</para>
+</section>
+
+<section id="jak-dostat-op-edy-do-novin">
+<indexterm class="startofrange" id="index-op-edy-sekce"><primary>Op-edy</primary></indexterm>
+<title>Jak dostat <literal>op-edy</literal> do&nbsp;novin</title>
+
+<para><literal>Op-ed</literal> je obvykle celostránkový článek v&nbsp;novinách. Není to zpravodajský článek, ale polemika; dal by se považovat za&nbsp;ekvivalent zápisku na&nbsp;blogu ve&nbsp;světě starých médií a má poměrně velký dosah. (Původ pojmu „<literal>op-ed</literal>“ je prostý: je to zkratka z&nbsp;anglického <foreignphrase>opposite editorial page</foreignphrase> — „naproti&nbsp;stránce s&nbsp;úvodníkem“ — protože tam se <literal>op-edy</literal> tradičně tiskly.)</para>
+
+<para>Noviny se na&nbsp;tyto stránky obvykle snaží otisknout zajímavé argumenty k&nbsp;aktuálním událostem a pro&nbsp;vaše hejno to může být skvělá možnost, jak se ukázat veřejnosti. V&nbsp;zásadě jsou čtyři různé příležitosti, kdy se dá do&nbsp;novin dostat <literal>op-ed</literal>.</para>
+
+<para>Ale než se na&nbsp;ty příležitosti podíváme, řekněme si jednu věc, která je pro&nbsp;všechny čtyři společná: zásadně nikdy neposílejte <literal>op-ed</literal> více než jedněm novinám v&nbsp;bláhové snaze nechat si ho otisknout na&nbsp;několika místech. Novináři <emphasis>nenávidí</emphasis> lidi, kteří tohle dělají. Vyberte si jedny noviny, které podle&nbsp;vás budou mít ten správný dosah a cílovou skupinu, a oslovte pouze je. Když váš článek odmítnou vydat, teprve pak můžete zkusit štěstí u&nbsp;jiné redakce.</para>
+
+<para>Prvním typem příležitosti k&nbsp;otisknutí <literal>op-edu</literal> je nějaká blížící se velká veřejná událost, výročí nějaké významné události nebo cokoliv, o&nbsp;čem se dlouho dopředu ví, že to v&nbsp;daný den vyvolá debatu na&nbsp;určité téma. Pro&nbsp;nové hráče je tohle typicky nejjednodušší cesta. Jeden až tři týdny před&nbsp;cílovým datem napíšete redakci a nabídnete jim téma pro&nbsp;jejich stránku s&nbsp;<literal>op-edy</literal>. Musíte uvést, o&nbsp;čem chcete psát, proč o&nbsp;tom chcete psát v&nbsp;ten konkrétní den, a připojit úvod chystaného článku, aby si mohli udělat představu o&nbsp;jeho poselství a vašem slohovém stylu. Téma článku uveďte v&nbsp;předmětu <literal>e-mailu</literal>.</para>
+
+<para>Tady je příklad, jak se mi podařilo dostat do&nbsp;novin <literal>op-ed</literal> k&nbsp;prvnímu dni soudu se&nbsp;správci Pirate Bay:</para>
+
+<informalexample>
+<literallayout>KOMU: oped@noviny.cz
+PŘEDMĚT: Soud s&nbsp;Pirate Bay: „Politický proces desetiletí“
+DATUM: 9.&nbsp;února 2009</literallayout>
+
+<literallayout>Vážená redakce,
+Vzhledem&nbsp;k&nbsp;tomu, že za&nbsp;týden, 16.&nbsp;února, začíná soud se&nbsp;správci Pirate Bay, chtěl bych vám nabídnout <literal>op-ed</literal> s&nbsp;tímto nadpisem a úvodem k&nbsp;otištění před&nbsp;začátkem soudu, co nejblíže k&nbsp;prvnímu dni procesu. Měli byste zájem?
+
+S&nbsp;úctou,
+[podpis]</literallayout>
+
+<title>Politický proces desetiletí</title>
+
+<para>Toto pondělí začíná ve&nbsp;Švédsku největší politický proces desetiletí — možná největší politický proces od&nbsp;IB skandálu ze&nbsp;70.&nbsp;let. V&nbsp;jednom rohu ringu stojí Katolická církev snažící se za&nbsp;každou cenu zakázat tiskařský lis, ten nový stroj, který ohrožuje monopol Církve na&nbsp;vědění a kulturu. V&nbsp;protějším rohu stojí ti, kteří předali kulturu a vědění lidu. V&nbsp;porotě sedí feudální panstvo, které svou moc propůjčuje Církvi, a které za&nbsp;to Církev odměňuje tím, že prostému lidu káže, aby poslouchal své pány.</para>
+
+<para>Přestože výše uvedená scéna pochází z&nbsp;Francie 16.&nbsp;století, přesně stejná scéna se od&nbsp;16.&nbsp;února začne odehrávat u&nbsp;Stockholmského obvodního soudu. Mocenská hra je totožná, otřesy struktur stejně obrovské. Pouze hráči jsou jiní.</para>
+</informalexample>
+
+<para>Když bude mít redakce zájem, jako u&nbsp;výše uvedené nabídky, pak se vás zeptá na&nbsp;počet slov a oznámí vám termín, do&nbsp;kdy musíte dodat hotový článek. Daný počet slov budete muset dodržet téměř úzkostlivě a obvykle je kratší, než si myslíte: své poselství budete muset zkracovat, zkracovat a zase zkracovat.</para>
+
+<para>Až vás novináři budou znát a vy budete předem znát jejich požadovaný počet slov, můžete jim rovnou poslat celý hotový článek a ušetřit tak jedno kolečko korespondence. Čím více to novinářům ulehčíte, tím vás budou mít raději.</para>
+
+<para>Odměnou za&nbsp;dodržování pravidel starých médií je, že se vaše poselství dostane k&nbsp;širokému publiku. Obvykle nedostanete zaplaceno. Nečekejte peníze a nežádejte o&nbsp;ně. Vaší odměnou je doručení vašeho poselství k&nbsp;jejich čtenářům.</para>
+
+<para>Druhým typem příležitosti je otištění cizího <literal>op-edu</literal>, se&nbsp;kterým zásadně nesouhlasíte. Skýtá se vám tak příležitost odpovědět opět na&nbsp;stránce s&nbsp;<literal>op-edy</literal>. Odpovědi jsou mnohem kratší než původní článek, ale pořád si v&nbsp;nich čtenáři přečtou název vašeho hejna a jeho poselství. Opět si musíte požádat o&nbsp;otištění, a pokud jste celkem neznámí, máte mnohem menší šanci.</para>
+
+<para>Třetí typ příležitosti pro&nbsp;vás bude prakticky nedosažitelný, pokud nejste již zavedeným hráčem. Tato příležitost je reakcí na&nbsp;něco — tedy že nabídnete <literal>op-ed</literal> v&nbsp;reakci na&nbsp;nějakou čerstvou událost. Noviny vítají <literal>op-edy</literal>, které rozebírají aktuální události, ale obvykle jen od&nbsp;dobře známých osobností a organizací. V&nbsp;tomto případě je <indexterm><primary>Rychlost</primary></indexterm>rychlost naprosto zásadní — pokud stihnete zareagovat během&nbsp;pár sekund, když noviny na&nbsp;Twitteru požádají o&nbsp;<literal>op-ed</literal>, můžete mít štěstí. (Většina novin na&nbsp;Twitteru nežádá přes&nbsp;redakční účet, ale někteří redaktoři zveřejňují žádosti na&nbsp;svém osobním účtu.)</para>
+
+<para>A na&nbsp;závěr, během&nbsp;bouřlivých mediálních průlomů, kdy budete středem pozornosti, vám od&nbsp;starých médií budou chodit žádosti o&nbsp;<literal>op-edy</literal>. Vždy se ze&nbsp;všech sil snažte těmto žádostem vyhovět, dodržujte požadovaný počet slov a články dodávejte v&nbsp;termínu. Pro&nbsp;stará média to bude signálem, že když vás požádají o&nbsp;poskytnutí obsahu, mohou se na&nbsp;vás spolehnout, a později vám pak budou nabízet více příležitostí.</para>
+<indexterm class="endofrange" startref="index-op-edy-sekce"/>
+</section>
+
+<section id="prichystejte-tiskovy-portal">
+<indexterm class="startofrange" id="index-tiskovy-portal-sekce"><primary>Tiskový portál</primary></indexterm>
+<title>Přichystejte tiskový portál</title>
+
+<para>Na&nbsp;závěr také budete muset přichystat <emphasis>tiskový portál</emphasis>. Ve&nbsp;vší jednoduchosti je to místo, odkud si reportéři budou moci stáhnout vaše portrétové fotky ke&nbsp;zveřejnění, snímky z&nbsp;aktivit organizace, získat záběry z&nbsp;vašich demonstrací a prohlédnout si archiv vašich tiskových zpráv. (Prostý <indexterm><primary>WordPress</primary></indexterm>WordPressový blog je pro&nbsp;tento účel přímo <emphasis>vynikající</emphasis>, což je další důvod, proč ho využívat k&nbsp;odesílání tiskových zpráv, jak bylo popsáno dříve.)</para>
+
+<para>Vzpomínáte na&nbsp;ta videa z&nbsp;demonstrací, která jsme probírali v&nbsp;kapitole&nbsp;4? Když jsme mluvili o&nbsp;natáčení HD kamerou na&nbsp;stativu? Výsledné záznamy pak musíte zveřejnit na&nbsp;tiskovém portálu. Stejně tak záběry z&nbsp;výše probíraných významných událostí, propagační fotky, obrázky vašeho loga ve&nbsp;vysokém rozlišení a všelijaké infoboxy, které mají stará média beze&nbsp;změn nakopírovat do&nbsp;popisu vašeho hejna. Zjistíte, že když tohle všechno bude dostupné <emphasis>bez&nbsp;nutnosti o&nbsp;to žádat</emphasis> a stará média budou do&nbsp;svých reportáží moci vložit ilustrační záběry z&nbsp;vašich aktivit, bude o&nbsp;vás reportáží vycházet mnohem více. Když podobné záběry poskytovat nebudete… no, tak prostě udělají reportáž o&nbsp;někom jiném.</para>
+
+<para>Nezapomeňte přidat také osobní profily lidí, které chcete médiím představit, a jejich fotky ve&nbsp;vysokém rozlišení.</para>
+
+<para>Adresa tohoto tiskového portálu by měla být na&nbsp;konci úplně všech tiskových zpráv a měla by být co nejjednodušší, například <emphasis><literal>http://tisk.vasehejno.cz</literal></emphasis> nebo <emphasis><literal>http://www.vasehejno.cz/tisk</literal></emphasis>.</para>
+<indexterm class="endofrange" startref="index-tiskovy-portal-sekce"/>
+</section>
+
+<epigraph>
+<para>18.&nbsp;září 2011 ve&nbsp;20:00, Berlín, Německo.</para>
+
+<para>Už před&nbsp;měsícem jsem věděl, že se tento den blíží, když německá Piratenpartei v&nbsp;předvolebních průzkumech získala 4,5&nbsp;procenta. Přestože to bylo pod&nbsp;německou pětiprocentní hranicí pro&nbsp;vstup do&nbsp;parlamentu, bylo to dost blízko, aby to k&nbsp;nim přitáhlo pozornost všech médií jako k&nbsp;nadějným nováčkům, což jim obratem prudce zvýšilo preference.</para>
+
+<para>Přiletěl jsem do&nbsp;Berlína znovu zažít ten magický okamžik a nachystal jsem všechny své kamery, abych nahrál ty úžasné záběry, na&nbsp;které jsme v&nbsp;roce 2009 celým vzrušením úplně zapomněli. Všechny záznamy stranou, takový zážitek se prostě nedá kompletně popsat ani ukázat — dá se jen zažít.</para>
+
+<para>Jsem ve&nbsp;stylovém klubu Ritter Butzke v&nbsp;Berlíně. Na&nbsp;povolební party berlínské Piratenpartei přišlo kolem&nbsp;devíti set lidí. Není to moc večeře, jakou pořádala švédská Pirátská strana, spíše jen divoká party. Skoro nikdo mě nepoznává a celkem mne to těší — naše ideály jsou důležitější než moje maličkost.</para>
+
+<para>Vejdu do&nbsp;klubu, vyberu si nějaký klidný koutek s&nbsp;výhledem na&nbsp;všechny přítomné a čekám na&nbsp;výsledky povolebních průzkumů, které mají oznámit přesně ve&nbsp;20:00. Když se okamžik vyhlášení přiblíží, pozapínám své kamery na&nbsp;stativech, abych ten magický okamžik zachytil. Převážně je to opakování našeho volebního vítězství ve&nbsp;Švédsku z&nbsp;roku 2009.</para>
+
+<para>DESET, DEVĚT, OSM, SEDM…</para>
+
+<para>Když televizní hlasatelé začnou vyhlašovat výsledky povolebních průzkumů, dav uctivě utichne. Protože neumím německy, nerozumím podrobnostem, slyším jen zkratky názvů stran a procenta. Lidé maličko zajásají, když jejich oblíbený zdroj rozhořčení, strana FDP, se&nbsp;2&nbsp;procenty vypadne z&nbsp;parlamentu. Pak na&nbsp;okamžik bleskově zpozorní, když se ozve název jejich strany.</para>
+
+<para>„Piratenpartei, 8,5&nbsp;procenta.“</para>
+
+<para>Ke&nbsp;stropu vyletí les rukou. Střecha ohlušujícím jásotem nadskočí. Všude kolem se lidé objímají navzájem. Někteří radostí brečí.</para>
+
+<para>Co nejdéle se snažím udržet emoce na&nbsp;uzdě a než vypnu kamery, podaří se mi nahrát celý zbytek scény — ale nemohu si pomoct, slzy prostě nedokážu udržet. Sbalím kamery a najdu si na&nbsp;chvíli klidný kout, abych mohl svým slzám štěstí dát volný průchod — na&nbsp;takové emoce jsem nebyl připravený, na&nbsp;takovou ohromnou radost z&nbsp;úspěchu naší sesterské strany, první úspěch mimo&nbsp;její švédskou kolébku.</para>
+
+<para>Když se vzpamatuji, chvíli bloumám kolem&nbsp;jeviště, abych našel nějaké známé, a brzy narazím na&nbsp;lidi, které znám z&nbsp;mezinárodních pirátských setkání. Trvají na&nbsp;tom, abych řekl pár slov z&nbsp;jeviště. I když je to jejich vítězství, rád se připojím k&nbsp;oslavám, takže vystoupím na&nbsp;jeviště a využiji své chabé znalosti němčiny.</para>
+
+<para>„Přátelé, kolegové, piráti,“ řeknu německy, jak nejlépe dovedu, „jsem Rick Falkvinge. Jsem zakladatelem švédské a první Pirátské strany.“ Propukne jásot. Střecha nadskočí. Do&nbsp;očí se mi opět hrnou slzy.</para>
+
+<para>Řeknu jim, že se právě stali hrdiny celé jedné generace, a že o&nbsp;jejich vítězství nebude psát jen Berliner Zeitung (berlínské noviny) a nebude o&nbsp;nich psát jen Der Spiegel (německé noviny). Zítra o&nbsp;jejich vítězství bude psát Wall Street Journal, <literal>al-Džazíra</literal> a Hindu Times. V&nbsp;tu chvíli to ještě nevím, ale když říkám „zítra,“ tak se mýlím. Zpráva o&nbsp;vítězství Piratenpartei v&nbsp;Berlíně je v&nbsp;těch novinách již dávno vydaná, a také v&nbsp;mnoha dalších po&nbsp;celém světě.</para>
+
+<para>Během&nbsp;noci promluvím se&nbsp;spoustou reportérů z&nbsp;celého světa. I když tohle vítězství patří německé Piratenpartei, většina z&nbsp;nich se věnuje oslavování. Nikdo nemůže říct, že by si to nezasloužili.</para>
+
+<para>Později Švédská veřejnoprávní televize použije záběry mého proslovu z&nbsp;povolební party Piratenpartei v&nbsp;dokumentárním filmu o&nbsp;kopírovacím monopolu a přidá k&nbsp;nim titulky „Jestli tato země má lotrovskou tvář, tak je to tahle.“ Když to uvidím, smíchy spadnu ze&nbsp;židle.</para>
+</epigraph>
+
+<mediaobject>
+<imageobject><imagedata fileref="img/Swarmwise%20Image%204%20-%20TV%20Frame.png" scalefit="1" width="100%" contentdepth="100%"/></imageobject>
+</mediaobject>
+</chapter>

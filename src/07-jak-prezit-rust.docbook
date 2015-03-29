@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter id="jak-prezit-rust">
+<title>Jak přežít růst, jaký profesionální manažeři nezažili</title>
+
+<abstract>
+<para>Velikost vašeho hejna se právě ztrojnásobila důsledkem nějaké významné události. Máte dvacet tisíc nových aktivistů — nových kolegů — kteří všichni čekají na&nbsp;instrukce od&nbsp;vás osobně. Čekají na&nbsp;instrukce od&nbsp;vás, protože v&nbsp;hejnu nikoho jiného neznají. Jak řešit podobnou situaci vás v&nbsp;žádném manažerském kurzu nenaučí: tam se probírají úskalí růstu o&nbsp;více než 10&nbsp;procent za&nbsp;rok. Jak ustát růst o&nbsp;200&nbsp;procent za&nbsp;týden se dozvíte zde.</para>
+</abstract>
+
+<para>31.&nbsp;května 2006 provedla švédská policie značně bezohlednou razii proti&nbsp;Pirate Bay, napáchala spoustu vedlejších škod a několikrát porušila Ústavu. Během&nbsp;protestů se Pirátské straně za&nbsp;týden ztrojnásobil počet členů z&nbsp;nevýrazných 2&nbsp;200 na&nbsp;mnohem působivějších 6&nbsp;600. Když jste se podívali na&nbsp;graf počtu členů, bylo to jako by pilot kreslícího pera přitáhl knipl až k&nbsp;sobě a začal stoupat kolmo vzhůru. Říkali jsme tomu <indexterm><primary>Vertikalita</primary></indexterm><emphasis>vertikalita</emphasis> a mysleli jsme si, že se taková věc stává jen jednou — událost podobná zázraku.</para>
+
+<para>(Nárůst by byl ještě větší, kdyby naše servery vydržely příval nových členů. Na&nbsp;takovou zátěž je nikdo netestoval.)</para>
+
+<para>17.&nbsp;dubna 2009 byl vyhlášen rozsudek nad&nbsp;dvěma správci Pirate Bay, jejich tiskovým mluvčím a čtvrtou nezúčastněnou osobou. Veřejnost jej vnímala jako těžké zmrzačení spravedlnosti. Během&nbsp;protestů se Pirátské straně za&nbsp;týden opět ztrojnásobila členská základna, ze&nbsp;14&nbsp;400&nbsp;členů se stala třetí největší švédskou stranou se&nbsp;42&nbsp;000&nbsp;členy. Strana právě zažila druhou <indexterm><primary>Vertikalita</primary></indexterm>vertikalitu.</para>
+
+<para>Získat za&nbsp;týden 20&nbsp;000 nových kolegů a aktivistů není jen zbožné přání. Takové věci se skutečně stávají. Sice velmi vzácně, ale stávají se. Musíte na&nbsp;to být připraveni.</para>
+
+<section id="sireni-a-udrzovani-hodnot">
+<title>Šíření a udržování hodnot</title>
+
+<para>Podle&nbsp;běžných organizačních postupů byste své organizační hodnoty měli sepsat. To v&nbsp;rychle rostoucím hejnu nestačí; musíte dělat ještě další tři věci.</para>
+
+<para>Kodex hodnot je obvykle součástí nebo doplňkem korporátního programového prohlášení, což je v&nbsp;typické organizaci jeden z&nbsp;mnoha dokumentů určených pouze pro&nbsp;zápis (to znamená, že je ve&nbsp;skutečnosti <emphasis>nikdo</emphasis> nečte), společně s&nbsp;ekologickou politikou, antidiskriminační politikou a rozvrhem praní prádla. (Popravdě, rozvrh praní prádla mezi&nbsp;ně asi nepatří, protože ho typicky někdo čte alespoň jednou za&nbsp;čas.) Jenže v&nbsp;organizaci ve&nbsp;formě hejna si během&nbsp;růstu organizace lidé nemohou předávat organizační hodnoty sami mezi&nbsp;sebou — musíte je aktivně vysvětlovat centrálně a <emphasis>opakovaně</emphasis>, jak se průběžně přidávají noví lidé.</para>
+
+<para>Podívejme se tedy na&nbsp;vzorový kodex hodnot — ten opět pochází z&nbsp;Pirátské strany, takže si jistě všimnete zmínky o&nbsp;Valném shromáždění, které asi v&nbsp;nepolitickém hejnu nebude existovat:</para>
+
+<informalexample>
+<title>Vzorový kodex hodnot</title>
+
+<para>Naše organizace stojí na&nbsp;třech různých pilířích: na&nbsp;práci hejna, na&nbsp;tradičních strukturách neziskových organizací a na&nbsp;hierarchické vertikální struktuře, která rozděluje zdroje v&nbsp;zájmu podpory hejna. Všechny tři jsou zhruba stejně důležité, ale každý plní úplně jiné úkoly: tradiční struktura neziskovek sestává pouze z&nbsp;Valného shromáždění a předsednictva strany kvůli&nbsp;právnímu zakotvení strany jako neziskové organizace; hierarchická struktura celé organizaci rozděluje zdroje a související pověření od&nbsp;předsednictva, navíc dělá rozhodnutí v&nbsp;zájmu efektivního formování veřejného mínění a jiné provozní činnosti; a spontánní práce hejna je hlavním tahounem našeho aktivismu.</para>
+
+<para>Řídíme se následujícími principy:</para>
+
+<variablelist>
+<varlistentry>
+<term>Sami rozhodujeme.</term>
+<listitem><para>Nebojíme se zkoušet nové věci, nové způsoby formování veřejného mínění a rozvíření veřejné diskuze. Rozhodnutí děláme, aniž bychom někoho prosili o&nbsp;dovolení, a stojíme si za&nbsp;nimi. Občas se věci nepodaří. Dělat chyby je v&nbsp;Pirátské straně naprosto v&nbsp;pořádku, pokud se z&nbsp;nich člověk dokáže poučit. Tady do&nbsp;hry vstupuje slavné „pravidlo tří pirátů:“ když se shodnou tři lidé, kteří se sami označují za&nbsp;piráty, že určitý druh aktivismu je pro&nbsp;stranu prospěšný, mají pravomoc jednat jménem strany. Dokonce si mohou nechat proplatit výdaje související s&nbsp;tímto aktivismem, pokud jsou rozumné (dřevěné tyčky, lepidlo a barva jsou rozumné; počítačové vybavení a velkoplošné obrazovky ne).</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Máme odvahu.</term>
+<listitem><para>Když se stane obrovský průšvih, budeme ho řešit teprve až když se opravdu stane. Nikdy se nestrachujeme předem. Cokoliv se může pokazit, ale také se všechno může povést. Smíme dělat chyby, protože jinak bychom nemohli dělat ani ty prospěšné věci.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Navzájem se podporujeme.</term>
+<listitem><para>Jsme závislí na&nbsp;vlastní soudržnosti. Podporovat ostatní aktivisty nebo důstojníky je stejně záslužné jako předvádět svou genialitu při&nbsp;samostatném dosahování výsledků.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Navzájem si <indexterm><primary>Důvěra</primary></indexterm>důvěřujeme.</term>
+<listitem><para>Víme, že všichni do&nbsp;jednoho chceme pro&nbsp;Pirátskou stranu jen to nejlepší.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Pouštíme se do&nbsp;iniciativ a respektujeme iniciativy ostatních.</term>
+<listitem><para>Když se někdo pustí do&nbsp;iniciativy, většinou dostane volnou ruku. Snažíme se nekritizovat iniciativy ostatních, protože dotyční tím něco dělají pro&nbsp;stranu. Když si myslíme, že některá iniciativa vede stranu špatným směrem, napravíme to svou vlastní iniciativou, která bude v&nbsp;lepším souladu s&nbsp;našimi ideály. Když se nám něco nelíbí, nebudeme na&nbsp;to upozorňovat, ale raději budeme dělat a šířit něco, co se nám líbí. Náš aktivismus potřebuje rozmanitost a my se ji snažíme zajistit.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Respektujeme vědomosti.</term>
+<listitem><para>Když diskutujeme o&nbsp;nějakém tématu, jakémkoliv tématu, tvrdá měřitelná data mají přednost. Druzí v&nbsp;pořadí jsou lidé, kteří mají s&nbsp;daným tématem zkušenosti. Vědomosti a zkušenosti mají přednost před&nbsp;úvahami a pocity, a tvrdá data mají přednost před&nbsp;vědomostmi.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Respektujeme čas ostatních a zaměření organizace.</term>
+<listitem><para>Když se nám nelíbí nějaká činnost nebo rozhodnutí, diskutujeme, argumentujeme, nesouhlasíme a/nebo se pustíme do&nbsp;vlastní iniciativy, kterou považujeme za&nbsp;lepší. Na&nbsp;druhou stranu, rozpoutání nebo podporování vášnivého negativně zaměřeného konfliktu a hledání početné podpory pro&nbsp;takový konflikt škodí organizaci jako celku a odvádí pozornost, energii a nadšení z&nbsp;vnější činnosti ovlivňující veřejné mínění. Lepší je respektovat čas a zaměření svých spoluaktivistů a zaměření organizace. Když objevíme zárodek vnitřního konfliktu, utlumíme jej pobídkou k&nbsp;pozitivní komunikaci. Když se nám něco nelíbí, vytvoříme a budeme šířit něco, co se nám líbí. Aktivně se snažíme šířit lásku a respekt a tlumit agresi a <indexterm><primary>Důvěra</primary></indexterm>nedůvěru. Komunikujeme pozitivně. Když se nám nelíbí nějaké rozhodnutí, vysvětlíme důvod své nelibosti bez&nbsp;vyvolávání emocí, nebo ještě lépe, vysvětlíme, proč by některá alternativa byla lepší. Kampaně vedeme směrem ven a táhneme za&nbsp;jeden provaz, nevyvoláváme rozkoly kampaněmi směrem dovnitř. Ještě jednou, komunikujeme pozitivně.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Jednáme důstojně.</term>
+<listitem><para>Při&nbsp;formování veřejného mínění vždy projevujeme respekt: sobě navzájem, nováčkům i našim odpůrcům. Jednáme zdvořile, s&nbsp;klidem a věcně, jak při&nbsp;formálních setkáních, tak i v&nbsp;neformálním prostředí. Zvláště ke&nbsp;svým spoluaktivistům nikdy nejsme neuctiví (to je jedna z&nbsp;mála věcí, které důstojníci Pirátské strany nebudou tolerovat ani trochu).</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Jsme v&nbsp;parlamentu.</term>
+<listitem><para>Chováme se jako řádná parlamentní strana. V&nbsp;souladu s&nbsp;předchozím bodem.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Pracujeme dlouhodobě.</term>
+<listitem><para>Naše budoucnost závisí na&nbsp;úspěchu v&nbsp;parlamentních volbách v&nbsp;letech 2010 a 2014, takže naše práce je dlouhodobá. Ve&nbsp;smyslu „neustále probíhá v&nbsp;rozmezí několika let.“ Pro&nbsp;spoustu z&nbsp;nás internetových aktivistů je interval mezi&nbsp;volbami, čtyři roky, prakticky skoro jako celá geologická éra.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Vystupujeme sami za&nbsp;sebe.</term>
+<listitem><para>Pirátská strana potřebuje rozmanité hlasy. Nikdo z&nbsp;nás nezastupuje Pirátskou stranu na&nbsp;blozích a podobně: jsme početná skupina jednotlivců, kteří se sami nazývají piráty. Tato rozmanitost tvoří základ našeho aktivismu a velký počet příkladných osobností vytváří širší základnu pro&nbsp;nábor nováčků a inspiraci k&nbsp;aktivismu. Uvnitř strany jsme také jen sami sebou a nikdy se netváříme, že mluvíme jménem větší skupiny: když se naše nápady uchytí, tak to stačí; když se neuchytí, na&nbsp;počtu souhlasících lidí nezáleží.</para></listitem>
+</varlistentry>
+</variablelist>
+</informalexample>
+
+<para>Organizační hodnoty byste měli pravidelně připomínat celému hejnu prostřednictvím&nbsp;pravidelných periodických zpráv, které budeme probírat v&nbsp;následující kapitole — abyste je připomněli starým aktivistům a zároveň je představili těm novým. V&nbsp;každé nebo každé druhé periodické zprávě popište jednu hodnotu. Netřeba dodávat, že se vlastními pravidly musíte sami řídit.</para>
+
+<para>Bohužel ale nestačí jen sepsat podobný dokument, a pak na&nbsp;něj všechny neustále upozorňovat slovy i činy. Jak jsme probírali v&nbsp;kapitole&nbsp;3, potřebujete navíc ještě <emphasis>lekce vedení</emphasis> a spoustu <emphasis>volných míst</emphasis> v&nbsp;organizaci pro&nbsp;budoucí nováčky. Během&nbsp;podobného přívalu nováčků jako z&nbsp;úvodu této kapitoly můžete zjistit, že se k&nbsp;vám přidal pomocný místní mediální manažer ve&nbsp;Lhotě u&nbsp;Horní Dolní. Když pro&nbsp;takovou pozici nemáte předem připravenou kolonku, nemůžete ji pak zaplnit. Když důstojníci kostry hejna nebudou umět prosazovat a vysvětlovat hodnoty hejna, nikdo ji nezaplní.</para>
+
+<para>Tedy kromě&nbsp;hodnot organizace jako celku musíte navíc šířit i hodnoty pro&nbsp;vedoucí, kteří na&nbsp;sebe berou formální zodpovědnost v&nbsp;kostře. I ty musejí být šířeny stále dokola a samozřejmě potvrzovány činy, stejně jako obecné hodnoty týkající se všech aktivistů.</para>
+
+<para>Zde je vzorová sada vůdčích hodnot pro&nbsp;fungující hejno.</para>
+
+<informalexample>
+<title>Vzorová příručka pro&nbsp;vedoucí</title>
+
+<para>Vést v&nbsp;Pirátské straně ostatní je náročná výzva, ale stojí to za&nbsp;to. Je to podstatně těžší než pracovat ve&nbsp;středním managementu průměrné korporace. Na&nbsp;druhou stranu je to o&nbsp;něco snadnější než posílat přes&nbsp;Saharu dopisy poštovní makrelou. Především je to ale podněcující, vzrušující a prostě docela zábava.</para>
+
+<para>Největší výzvu představují neustálé žádosti o&nbsp;transparentnost a vliv na&nbsp;rozhodování z&nbsp;oblasti, kterou máte na&nbsp;starost, střídané požadavky vašich nadřízených, abyste ukázali výsledky a nesli zodpovědnost. V&nbsp;podstatě to znamená, že vedení v&nbsp;Pirátské straně je společenská dovednost, a ne manažerská ani technická. Cílem je zajistit, aby se lidé ve&nbsp;svých rolích cítili příjemně.</para>
+
+<para>Především musíme při&nbsp;všech svých činnostech chránit dvě věci:</para>
+
+<itemizedlist>
+<listitem><para><emphasis>Zaměření</emphasis> organizace. Chceme překročit hranici pro&nbsp;vstup do&nbsp;parlamentu. Veškerá naše činnost k&nbsp;tomu musí směřovat.</para></listitem>
+
+<listitem><para><emphasis>Energii</emphasis> organizace. Když na&nbsp;vás přijdou negativní pocity, strašně snadno ztratíte veškerou energii. Musíme neustále podporovat postoje typu „my to dokážeme.“</para></listitem>
+</itemizedlist>
+
+<para>My, kteří jsme přijali povinnosti důstojníků a vůdců, používáme k&nbsp;zachování těchto dvou hodnot následující prostředky:</para>
+
+<variablelist>
+<varlistentry>
+<term><indexterm><primary>Vedení příkladem</primary></indexterm>Vedení příkladem.</term>
+<listitem><para>Pro&nbsp;ostatní se snažíme být vzorem. Chováme se tak, jak by se podle&nbsp;nás měli chovat ostatní členové organizace. K&nbsp;tomu patří i neustálá snaha působit pozitivně. V&nbsp;každé organizaci všichni napodobují své vedoucí a důstojníky. Když na&nbsp;někoho křičíme, šíříme tím kulturu křičení na&nbsp;ostatní. Když ostatní podporujeme a chválíme za&nbsp;jejich činnost, šíříme tím kulturu, že by se lidé měli navzájem podporovat a chválit. Proto děláme jen to druhé.</para>
+
+<para>Někdy je to těžké. Například když na&nbsp;fóru začneme diskutovat s&nbsp;někým, kdo se podle&nbsp;nás mýlí. Snadno pak nasadíme podrážděný tón a začneme mluvit povýšeně (vtipnou ilustraci tohoto jevu najdete na&nbsp;adrese <emphasis><ulink url="http://xkcd.com/386/">http://xkcd.com/386/</ulink></emphasis>). Této hrozby si musíme být vědomi a musíme ji v&nbsp;sobě aktivně potlačovat. Zvláště to platí pro&nbsp;čistě internetovou komunikaci, kde chybí důležité složky projevu, například řeč těla, důraz na&nbsp;některá slova a tón hlasu, tedy věci, které by jinak u&nbsp;mnoha komentářů značně zmírnily agresivní dojem. Chování k&nbsp;ostatním je ve&nbsp;skupině značně nakažlivé, proto si musíme udržet pozitivní a chápavý přístup. Šíříme lásku, <indexterm><primary>Důvěra</primary></indexterm>důvěru, energičnost a nadšení.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Sami rozhodujeme.</term>
+<listitem><para>Byla nám svěřena rozhodovací pravomoc za&nbsp;určitou část organizace, a my ji využíváme. Nebojíme se říct „Tohle rozhodnutí dělám já,“ protože naším jasným a výslovným úkolem je samostatně rozhodovat a za&nbsp;rozhodnutím si stát. Opakem by bylo dovolit všem kecat do&nbsp;všeho. Jenže to není náš styl. My rozhodujeme sami; u&nbsp;nás rozhodují samostatní jednotlivci. Ty jsi jedním z&nbsp;nich. Zároveň se hlasování vyhýbáme jako čert kříži a používáme ho jen jako úplně poslední možnost: hlasování vytváří poražené.</para>
+
+<para>Naše pozice rozhodovatelů však neomlouvá neuctivé zacházení s&nbsp;tímto pověřením. Všem lidem dotčeným naším rozhodováním projevujeme stejný respekt, jaký sami do&nbsp;budoucna potřebujeme jakožto respektovaní vůdci a rozhodovatelé. Rozhodovat se bude v&nbsp;zájmu posílení energie a zaměření organizace, a rozhodnutí, která sama o&nbsp;sobě vyvolají nelibost u&nbsp;hrozivě velké části organizace, by se měla zrušit. To si žádá samostatné nastolení rovnováhy mezi&nbsp;nezávislým rozhodováním a naší závislostí na&nbsp;<indexterm><primary>Důvěra</primary></indexterm>důvěře dotčených kvůli&nbsp;budoucímu rozhodování, a ta šedá zóna je docela velká.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Vedeme inspirováním a doporučováním, ne přikazováním.</term>
+<listitem><para>V&nbsp;hejnu byste nikomu neměli a ani nemůžete říkat, co má dělat. Nemáme žádnou pravomoc na&nbsp;někoho ukázat a říct mu, aby něco udělal. Místo&nbsp;toho lidi inspirujeme k&nbsp;velkolepým činům. Dáváme věci do&nbsp;pohybu tím, že nahlas oznámíme „Udělám X, protože tím podle&nbsp;mě dosáhneme Y. Když nás to bude dělat dostatečný počet, mohlo by se nám podařit Z. Takže bych při&nbsp;dělání X uvítal nějakou společnost,“ nebo něco podobného vlastními slovy.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Vyzdvihujeme příkladné jedince.</term>
+<listitem><para>Veřejně i v&nbsp;soukromí co nejčastěji odměňujeme své kolegy za&nbsp;předvádění chování, které chceme podporovat. Zvláště pak aktivisty, kteří podporují své kolegy. Individuální genialitu chválíme a odměňujeme stejně jako pomáhání ostatním zazářit. Je to důležité.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Odměňujeme pozorností.</term>
+<listitem><para>Jakékoliv chování, které v&nbsp;organizaci upoutává pozornost, se posiluje. Proto se soustředíme a věnujeme pozornost dobrému chování, a zcela ignorujeme špatné chování, jak je to jen možné. Chválíme dobré a ignorujeme špatné (až na&nbsp;jednu výjimku níže).</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Předpokládáme jednání v&nbsp;dobré víře.</term>
+<listitem><para>Předpokládáme, že všichni usilují o&nbsp;úspěch organizace, i když dělají něco, čemu nerozumíme. Předpokládáme, že se Pirátské straně snaží pomoct, i když nám výsledek připadá přesně opačný. V&nbsp;podobných situacích při&nbsp;pomáhání nováčkům zvyknout si na&nbsp;naši organizační kulturu vystupujeme trpělivě a podporujeme aktivismus. Takto zároveň sami jako vůdci předvádíme dobrou víru a jdeme ostatním příkladem.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Okamžitě se bouříme proti&nbsp;ponižování.</term>
+<listitem><para>Přestože máme obrovskou toleranci k&nbsp;chybám a špatnému úsudku, ani trochu netolerujeme, když někdo ponižuje své kolegy, ostatní aktivisty. Povýšená argumentace nebo jiné pokusy umlčet spoluaktivistu jsou naprosto nepřijatelné. Když na&nbsp;takové chování narazíme, okamžitě zakročíme a označíme ho za&nbsp;nepřijatelné. My ve&nbsp;vedoucích pozicích máme důležitý úkol zajistit, aby se ostatní ve&nbsp;svých rolích cítili bezpečně, a nepřipustit žádné šikanování. Když někdo bude dále šikanovat i přes&nbsp;jasné napomenutí, bude vyloučen z&nbsp;oblasti, kde se ke&nbsp;svým kolegům chová neuctivě, a pokud ho nějaký kamarád z&nbsp;trucu přivede zpět, nejspíše vyloučíme i toho kamaráda. K&nbsp;ponižování a úmyslně špatnému chování vůči&nbsp;spoluaktivistům máme absolutně nulovou toleranci.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Vysvětlujeme vlastní názor.</term>
+<listitem><para>Když se podle&nbsp;nás někdo mýlí, neříkáme mu „jseš blbej“ ani nic podobného, ale začneme vysvětlovat své myšlenky, pocity a názory. Komunikujeme podle&nbsp;modelu „Když uděláš čin X, mám pocit Y, protože se mi zdá, že si myslíš Z,“ pravděpodobně s&nbsp;dovětkem „Očekával jsem A nebo B.“ Příklad: „Když celý rozpočet přidělíš na&nbsp;aktivismus, jsem z&nbsp;toho otrávený, protože podle&nbsp;mě ignoruješ naše nutné IT výdaje. Čekal jsem, že se zeptáš, kolik stojí provoz našich serverů.“ Místo&nbsp;konfrontace se tím vytváří konstruktivní dialog.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Stojíme si za&nbsp;svými názory.</term>
+<listitem><para>Nikdy neříkáme „Spousta lidí si myslí…“ ani se neschováváme za&nbsp;nějakou množinu lidí. Naše názory jsou vždy jen naše vlastní a stojíme si za&nbsp;nimi. Jedinou výjimkou je zastupování organizace při&nbsp;nějakém oficiálním rozhodnutí.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term><indexterm><primary>Administrativa</primary></indexterm>Administrativa je pomůcka a ne cíl.</term>
+<listitem><para>Snažíme se co nejvíce omezit <indexterm><primary>Administrativa</primary></indexterm>administrativní zátěž a činnost, a naopak upřednostňujeme aktivismus. Spadnout do&nbsp;nekonečného cyklu samovolné expanze byrokratických struktur je ohromně snadné, každou formální činnost nebo proces je třeba pravidelně zpochybňovat a vyhodnocovat, jak pomáhá aktivismu a formování veřejného mínění.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Vytváříme společenské vazby.</term>
+<listitem><para>Scházíme se a seznamujeme lidi. Společenské vazby — že se lidé scházejí, společně chodí na&nbsp;jídlo, na&nbsp;pivo nebo kávu — jsou tím, co z&nbsp;Pirátské strany dělá organizaci.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Rozvíjíme své kolegy.</term>
+<listitem><para>Všem pomáháme, aby se rozvíjeli a zlepšovali jako aktivisté i jako vůdci. Nikdo se nerodí se&nbsp;schopností vést; je to naučená dovednost. Navzájem si pomáháme rozvíjet své dovednosti, dokonce i ve&nbsp;svých pozicích důstojníků a vůdců.</para></listitem>
+</varlistentry>
+</variablelist>
+
+<para>Na&nbsp;závěr, všichni vůdci a rozhodovatelé v&nbsp;Pirátské straně by se měli podívat na&nbsp;pětapadesátiminutové video „How to protect your open source project from poisonous people.“ Zdánlivě je zaměřené na&nbsp;technické projekty, ale mluví se v&nbsp;něm o&nbsp;nápravných opatřeních, když nastanou události narušující zaměření nebo energii dobrovolnické organizace. Je tedy velmi užitečné i pro&nbsp;naši organizaci.</para>
+
+<para>Tento dokument se s&nbsp;přibývajícími zkušenostmi průběžně upravuje. Nemůžete ho nikomu omlátit o&nbsp;hlavu, jen protože se některá část dá vyložit určitým způsobem: hlavní je myšlenka, a ne litera.</para>
+</informalexample>
+
+<para>Tyto dva vzorové dokumenty dohromady shrnují velkou část této knihy.</para>
+</section>
+
+<section id="decentralizovane-vedeni-prazdna-policka">
+<title>Decentralizované vedení, prázdná políčka</title>
+
+<para>Tím se dostáváme k&nbsp;tomu, co se stane, když opravdu přijde <indexterm><primary>Vertikalita</primary></indexterm><emphasis>vertikalita</emphasis> a z&nbsp;ničeho nic se vám ztrojnásobí počet aktivistů. V&nbsp;průměru bude muset každý důstojník v&nbsp;kostře hejna jmenovat dva nové důstojníky. K&nbsp;tomu jsou nutné dvě věci:</para>
+
+<para>Zaprvé, jsou k&nbsp;tomu potřeba důstojníci a vedoucí, kteří se nebojí jmenovat nové důstojníky a delegovat zodpovědnost a pravomoci nad&nbsp;zdroji, nebo si třeba sehnat zástupce a asistenty. Potřebují mít pravomoc dělat to samostatně a musejí <emphasis>vědět</emphasis>, že tuto pravomoc mají a <emphasis>očekává se</emphasis> od&nbsp;nich, že ji budou využívat. Není možné, abyste jmenování důstojníků museli řešit centrálně vy nebo kdokoliv jiný, a zároveň jste podobnou událost dokázali využít naplno. (V&nbsp;první řadě byste takovou centrální brzdu všeho v&nbsp;organizaci vůbec neměli mít, takže by tento konkrétní problém vůbec neměl nastat.)</para>
+
+<para>Zadruhé, jsou potřeba prázdná políčka v&nbsp;organizačním diagramu kostry. Spousty a spousty prázdných políček po&nbsp;celé kostře. Takže se nebojte celou strukturu prázdných políček v&nbsp;plném rozsahu vytvořit již v&nbsp;okamžiku zrodu hejna, i když na&nbsp;začátku budou jména napsaná jen v&nbsp;pár políčkách na&nbsp;vrcholu (nebo uprostřed, podle&nbsp;vašeho úhlu pohledu), jak jsme probírali v&nbsp;kapitole&nbsp;3.</para>
+</section>
+
+<section id="rozrustejte-se-pomoci-zabavy">
+<title>Rozrůstejte se pomocí&nbsp;zábavy</title>
+
+<para>V&nbsp;souvislosti s&nbsp;růstem je zábava v&nbsp;hejnu mnohem důležitější než se jen dobře bavit při&nbsp;práci. Pro&nbsp;růst počtu aktivistů je naprosto zásadní.</para>
+
+<para>Důvod je prostý: lidi to táhne tam, kde si ostatní podle&nbsp;všeho skvěle užívají. Když se budete bavit, bude se k&nbsp;vám chtít přidat více lidí. Když se budete hašteřit a bojovat mezi&nbsp;sebou, spousta potenciálních nových aktivistů vás obejde velkým obloukem, aby se náhodou do&nbsp;vašeho vnitřního boje nezapletli.</para>
+
+<important><para>Zábava je v&nbsp;hejnu zásadní pro&nbsp;růst počtu aktivistů.</para></important>
+
+<para>Zábava je zásadní pro&nbsp;úspěch organizace. Musíte zajistit, abyste se vy i vaši kolegové, všech několik tisíc kolegů, dobře bavili.</para>
+</section>
+
+<section id="drina-drina-drina">
+<title>Dřina, dřina, dřina</title>
+
+<para>Úspěch se v&nbsp;hejnu nedostavuje hladce a plynule. Přichází v&nbsp;těžko předvídatelných obřích vlnách.</para>
+
+<para>Například celý rok nebo dva mluvíte o&nbsp;nějakém tématu, ale vaše úsilí nemá žádný viditelný efekt. Pak se něco stane, desítky tisíc lidí si prakticky přes&nbsp;noc uvědomí, že jste celou dobu měli pravdu, a připojí se k&nbsp;boji v&nbsp;barvách vašeho hejna.</para>
+
+<para>I když dlouhá dřina bez&nbsp;sebemenší známky výsledku může být často deprimující, musíte mít neustále na&nbsp;paměti, že lidé naslouchají a vnímají, co říkáte. Jen se prozatím rozhodli s&nbsp;tím nic nedělat — možná protože to pro&nbsp;ně není důležité, možná protože vám prostě nevěří ani slovo.</para>
+
+<para>Pak najednou vláda oznámí novou příšernou legislativu, která do&nbsp;posledního písmene potvrdí všechny vaše výroky za&nbsp;poslední dva roky, a z&nbsp;ničeho nic vaše zprávy sleduje dvacet tisíc nových čtenářů a máte pět tisíc nových aktivistů, protože jste se právě z&nbsp;proroka konce světa stali hlavní postavou boje za&nbsp;tolik potřebnou změnu. Přesně tak to chodí.</para>
+
+<para>Prvním krokem je zatnout zuby a prostě dřít, dřít a dřít, i když nevidíte prakticky žádný výsledek. Pište ty články a <indexterm><primary>Op-edy</primary></indexterm><literal>op-edy</literal>, pořádejte ty akce, rozdávejte ty letáky, i když reakce veřejnosti je na&nbsp;bodu mrazu. Lidé vás <emphasis>vnímají</emphasis>.</para>
+
+<para>Druhým krokem je okamžitě po&nbsp;té přelomové události přerušit dřinu a začít zuřivě nabírat všechny ty nové aktivisty, jak je popsáno v&nbsp;této kapitole. Později, až příval nováčků opadne, naučíte všechny nové aktivisty masírovat veřejné mínění stejně jako jste to předtím dělali sami, hejno ale teď bude mít mnohem větší dosah než před&nbsp;příchodem obrovské vlny nováčků.</para>
+
+<para>Na&nbsp;druhou stranu bychom si neměli plést vytrvalou každodenní dřinu se&nbsp;zatvrzelým ignorováním překážek pro&nbsp;šíření myšlenek hejna. Když vám lidé říkají, že vaše webová stránka je nepřehledná, že důstojníci hejna nejsou k&nbsp;zastižení nebo že nováčci na&nbsp;srazech se necítí vítáni, jsou to skutečné problémy a rozhodně byste je neměli brát jako signál, že máte dál pokračovat jako doteď. Všichni musejí neustále dávat pozor na&nbsp;skutečné překážky pro&nbsp;šíření myšlenek hejna — ale nejtěžší je sebrat dennodenní motivaci, když žádné takové překážky nejsou vidět, a přesto činnost nemá spád. Přesně v&nbsp;takovou chvíli musí člověk dál dřít.</para>
+</section>
+
+<section id="udrzujte-si-jedinou-sadu-hodnot">
+<title>Udržujte si jedinou sadu hodnot, jedinou hodnotovou základnu</title>
+
+<para>Prozatím se tato kniha zaměřovala hlavně na&nbsp;cesty k&nbsp;úspěchu, ale příklady nezdarů mohou být stejně poučné. Mou největší strategickou chybou vůbec byla chamtivost, což není nic neobvyklého. Týká se to založení mládežnické organizace Pirátské strany — <foreignphrase>Ung Pirat</foreignphrase> („Mladí piráti“).</para>
+
+<para>(V&nbsp;Evropě mají politické strany skoro všude mládežnické organizace, kde se dospívající učí o&nbsp;politice a hodnotách strany od&nbsp;svých vrstevníků. Přestože něco takového může v&nbsp;mnoha oblastech světa znít divně, v&nbsp;Evropě a Švédsku je to naprosto normální.)</para>
+
+<para>Bylo mi řečeno, že strana a hnutí by díky&nbsp;založení mládežnické organizace mohla získat stovky tisíc eur ze&nbsp;státních dotací: stát každoročně vyplácí dotace na&nbsp;aktivity pro&nbsp;mládež, které mladým lidem nabízejí smysluplné využití volného času, a politická činnost do&nbsp;této množiny rozhodně patří. Vzhledem&nbsp;k&nbsp;tomu, jak stranická pokladna zela prázdnotou, bylo mou v&nbsp;pořadí první chybou to, že jsem se nechal zaslepit vidinou peněz a nezjistil jsem si dostatek informací.</para>
+
+<para>Parta, která se přihlásila na&nbsp;založení mládežnické organizace, své práci skvěle rozuměla, což je v&nbsp;hejnu typické, a měla s&nbsp;tím značné zkušenosti. Přesně věděli, jaké byrokracii se vyhnout a jak předem optimalizovat strukturu mládežnické organizace, aby přeskočili všechny překážky na&nbsp;nejkratší cestě k&nbsp;dotacím na&nbsp;aktivity pro&nbsp;mládež.</para>
+
+<para>Zde vězí druhý problém, o&nbsp;kterém jsem v&nbsp;té době neměl tušení, ale který se stal mou druhou zásadní chybou. Aby měla mládežnická organizace nárok na&nbsp;státní dotace, musí její organizační struktura vyhovovat striktním předpisům — mimo&nbsp;jiné musí být přísně demokratická se&nbsp;spoustou byrokracie a hlasování, což je v&nbsp;přímém rozporu se&nbsp;vším, co jsme se v&nbsp;kapitole&nbsp;6 dozvěděli o&nbsp;<indexterm><primary>Řešení sporů</primary></indexterm>řešení sporů v&nbsp;hejnu. Obecně by se dalo říct, že kvůli&nbsp;dotacím musí fungovat podle&nbsp;šablony neziskové organizace ze&nbsp;60.&nbsp;let 20.&nbsp;století.</para>
+
+<para>Jistě si vzpomínáte, že takováto struktura potlačuje rozmanitost, která je pro&nbsp;úspěch hejna nezbytná. Dále podporuje vnitřní spory, protože když se o&nbsp;všem hlasuje, z&nbsp;každého rozhodnutí se dělá spor — a v&nbsp;důsledku se tím místo&nbsp;dovedností pro&nbsp;práci v&nbsp;hejnu rozvíjejí dovednosti pro&nbsp;vedení vnitřních sporů.</para>
+
+<para>V&nbsp;tu chvíli, stále bez&nbsp;sebemenšího tušení o&nbsp;budoucích problémech, jsem udělal svou třetí zásadní chybu a spojil jsem žádost o&nbsp;členství v&nbsp;Pirátské straně se&nbsp;vstupem do&nbsp;mládežnické organizace. Dotace na&nbsp;aktivity pro&nbsp;mládež se vyplácejí podle&nbsp;počtu členů do&nbsp;26&nbsp;let a počtu regionálních poboček, a mládežnická organizace byla optimalizována na&nbsp;maximalizaci těchto dvou čísel. Při&nbsp;založení tedy do&nbsp;ní vstoupili stávající mladí členové strany a každý nový člen mohl při&nbsp;registraci zaškrtnout volbu „Je mi méně než 26&nbsp;let a chci vstoupit i do&nbsp;mládežnické organizace.“ Nedlouho poté jsem zjistil, jak velká to byla chyba — ano, hnutí to přineslo peníze, ale strategické škody byly mnohem větší.</para>
+
+<para>Mládežnická organizace splnila podmínky pro&nbsp;udělení státních dotací na&nbsp;aktivity pro&nbsp;mládež 16.&nbsp;ledna 2009, což byla od&nbsp;jejího založení v&nbsp;prosinci 2006 rekordně krátká doba. Lidé, kteří ji vybudovali přesně podle&nbsp;mého zadání, se vypořádali se&nbsp;švédskou dotační <indexterm><primary>Byrokracie</primary></indexterm>byrokracií v&nbsp;rekordním čase, což je opět pro&nbsp;hejno typické (byť musíme značnou část zásluh připsat i jejich osobním dovednostem).</para>
+
+<para>Jenže, jak jsme si řekli v&nbsp;kapitole&nbsp;5, lidé se budou sami organizovat v&nbsp;zájmu zlepšení čehokoliv, co měříte veřejně. Mládežnická organizace byla vybudována s&nbsp;cílem maximalizovat přísun dotací a trvale příslušné parametry měřila veřejně. V&nbsp;důsledku toho lidé mládežnickou organizaci dále budovali úplně jiným směrem než samotnou stranu — a co hůře, tento směr by pro&nbsp;stranu byl zničující, kdyby do&nbsp;ní začalo prosakovat organizační myšlení z&nbsp;mládežnické organizace. A to se samozřejmě také stalo. Mládežnická organizace přece měla být hlavní aktivistickou základnou a náborovou zónou pro&nbsp;příští generaci aktivistů.</para>
+
+<para>Tím začaly byrokratické předpisy švédských státních dotací na&nbsp;aktivity pro&nbsp;mládež postupně rozkládat mentalitu spolupráce a různorodosti hejna Pirátské strany, protože ovládaly strukturu její mládežnické organizace.</para>
+
+<para>Mohli byste namítat, že dotační předpisy tu strukturu neovládaly <emphasis>doslova</emphasis> — jenže smyslem založení mládežnické organizace bylo splnit tyto předpisy a získat tak peníze pro&nbsp;hnutí, kvůli&nbsp;slepé chamtivosti, která způsobila těžké strategické škody.</para>
+
+<para>Přirozeně, jak jsme si řekli v&nbsp;kapitole&nbsp;5, se mládežnická organizace stále více zaměřovala na&nbsp;co největší podřízení sebe sama dotacím, které ji poháněly. Navíc díky&nbsp;svým mnohem rozsáhlejším zdrojům dokázala z&nbsp;nových aktivistů nadělat plniče dotačních předpisů dříve, než z&nbsp;nich samotná strana stihla vycvičit schopné formovače veřejného mínění.</para>
+
+<para>Aby to bylo ještě horší, v&nbsp;mládežnické organizaci se zrodila kultura — nebo možná byla vypěstována — že svou vlastní organizační kulturu vnitřních sporů považovali za&nbsp;<emphasis>mnohem lepší</emphasis> než ideál hejna pomáhat si navzájem v&nbsp;kultuře rozmanitosti a aktivně se snažili přenést kulturu vnitřních sporů do&nbsp;hejna strany — v&nbsp;blažené nevědomosti a z&nbsp;neznalosti, že veškerý nábor nováčků, a tedy i zdroje, závisí právě na&nbsp;té metodologii hejna, kterou tak pohrdali.</para>
+
+<para>Katastrofa byla tedy trojího rázu:</para>
+
+<variablelist>
+<varlistentry>
+<term>Zaprvé</term>
+<listitem><para>— Mládežnická organizace měla mnohonásobně více zdrojů než samotná strana a s&nbsp;jejich pomocí novým aktivistům vštěpovala hodnoty demokratického vnitřního boje, které jsou aktivismu v&nbsp;hejnu zcela cizí, a upřednostňování <indexterm><primary>Administrativa</primary></indexterm>administrativy před&nbsp;aktivismem, než jim strana mohla vysvětlit, jak fungují organizace v&nbsp;podobě hejna.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Zadruhé</term>
+<listitem><para>— Protože členové mládežnické organizace byli zároveň členy strany, nebylo možné zastavit přetahování členů strany do&nbsp;mládežnické organizace. Exekutivní část stranické organizace totiž konec konců dostávala mandát od&nbsp;Valného shromáždění, kde si tito lidé bedlivě hlídali své zájmy k&nbsp;získání více peněz a zdrojů.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+<term>Zatřetí</term>
+<listitem><para>— Za&nbsp;jiných okolností by mládežnická organizace byla přirozeným výcvikovým centrem strany; takto se z&nbsp;ní stalo cvičiště pro&nbsp;aktivisty ničící hodnoty, které straně přinesly úspěch. V&nbsp;důsledku tak nebylo odkud nabírat nové aktivisty, kteří ještě neprošli výcvikem v&nbsp;hodnotách a postupech ničení hejna.</para></listitem>
+</varlistentry>
+</variablelist>
+
+<para>Takže mládežnickou organizaci místo&nbsp;konsenzu a aktivismu poháněly spory. Místo&nbsp;na&nbsp;principech změny světa byla vybudována na&nbsp;principech nenásilného vnitřního boje („učení se demokratickým principům“). Byla vybudována na&nbsp;upřednostňování a odměňování <indexterm><primary>Administrativa</primary></indexterm>administrativy před&nbsp;aktivismem. Obsadila Valné shromáždění strany, odkud je nešlo vyhodit, měla pod&nbsp;kontrolou nábor nových aktivistů a každým dnem narůstaly škody na&nbsp;organizačních hodnotách.</para>
+
+<para>Abych ilustroval na&nbsp;tvrdých faktech, jak moc byla mládežnická organizace uzavřená do&nbsp;svého vlastního světa, stačí si všimnout, že ve&nbsp;volebním roce (2010) nebyla v&nbsp;plánu činnosti na&nbsp;celý rok jediná zmínka o&nbsp;volbách. Ano, čtete správně: organizace, která měla být hlavní aktivistickou základnou politické strany, se vůbec nezajímala o&nbsp;nadcházející významné volby. Byla to učiněná katastrofa a vytrvale se bránila odříznutí od&nbsp;přísunu nových aktivistů, kteří přicházeli z&nbsp;mateřské strany.</para>
+
+<para>Parta, která mládežnickou organizaci vytvořila přesně podle&nbsp;mých požadavků, se naprosto překonala a vybudovala nejlepší možnou organizaci podle&nbsp;daného zadání a dokonce nad&nbsp;jeho rámec, zlomila při&nbsp;tom několik švédských rekordů a skutečně pro&nbsp;nás získala ty stovky tisíc eur ročně — jenže strategické škody na&nbsp;elementárních organizačních hodnotách značně převyšovaly finanční zisk.</para>
+
+<para>Aby toho nebylo málo, strana s&nbsp;těmi penězi vůbec nesměla nakládat a musely zůstat v&nbsp;mládežnické organizaci.</para>
+
+<para>Poučení zní, že sebevětší hromada peněz — i když ji skutečně dostanete — nedokáže napravit škody ve&nbsp;vaší organizaci, když přijdete o&nbsp;svou <indexterm><primary>Hodnotová základna</primary></indexterm>hodnotovou základnu. Tohle byla moje největší strategická chyba v&nbsp;životě. Musíte si udržovat <emphasis>jednu</emphasis>, <emphasis>jedinou</emphasis> <indexterm><primary>Hodnotová základna</primary></indexterm>hodnotovou základnu.</para>
+
+<important><para>V&nbsp;žádném případě neriskujte kulturu svého hejna kvůli&nbsp;rychlým penězům. Udržujte si jednu hodnotovou základnu.</para></important>
+
+<para>Krátce před&nbsp;napsáním těchto řádků byl novým předsedou výše popsané mládežnické organizace zvolen jeden z&nbsp;největších zastánců principů hejna v&nbsp;celém hnutí. Teprve se ukáže, jestli se v&nbsp;tomto konkrétním hejnu podaří napravit škody na&nbsp;hodnotách spolupráce a rozmanitosti.</para>
+</section>
+
+<section id="vazne-jen-jednu-mocenskou-zakladnu">
+<title>Vážně, jen jednu mocenskou základnu</title>
+
+<para>Když jsem mluvil se&nbsp;staršími neparlamentními stranami z&nbsp;celého Švédska, všechny zmiňovaly jeden konkrétní organizační detail, který nakonec vedl k&nbsp;jejich pádu: vícero mocenských základen.</para>
+
+<para>Tyto strany se rozdělily do&nbsp;několika různých formálních organizací, které měly samostatnou právní subjektivitu a každá měla na&nbsp;starosti určitou zeměpisnou oblast nebo podoblast. To vedlo k&nbsp;několika katastrofálním následkům.</para>
+
+<para>Zaprvé, aktivisty to upnulo jen k&nbsp;zájmům jejich místního sdružení, místo&nbsp;aby se starali o&nbsp;hejno jako celek. Spousta energie se přesměrovala z&nbsp;aktivismu do&nbsp;vnitřního mocenského boje mezi&nbsp;záměrně vytvořenými frakcemi. Potřebujete, aby každý aktivista byl členem sjednoceného hejna, a ne členem „podhejna z&nbsp;Kačerova, které bojuje za&nbsp;své vlastní zájmy proti&nbsp;podhejnu ze&nbsp;sousedního Západního Kocourkova.“ Rozhodně nechcete vytvářet frakce, které pak mezi&nbsp;sebou začnou válčit.</para>
+
+<para>Zadruhé, vznikají tím tuny nadbytečné <indexterm><primary>Administrativa</primary></indexterm>administrativy. Potřebujete, aby <indexterm><primary>Administrativa</primary></indexterm>administrativu řešilo co nejméně lidí, a naopak aby se co nejvíce lidí věnovalo aktivismu. Proto musíte veškerou <indexterm><primary>Administrativa</primary></indexterm>administrativní zátěž centralizovat na&nbsp;jednoho člověka nebo hrstku lidí a všem ostatním ji zjednodušit na&nbsp;úroveň kliknutí na&nbsp;tlačítko „dejte mi peníze na&nbsp;tuhle skvělou akci, kterou zrovna pořádáme.“ Rozdělení organizace na&nbsp;spoustu právních entit znamená, že každá entita si musí zvlášť vést účetnictví, podávat daňová přiznání, řešit úřední korespondenci a tak dále, čímž vyplýtvá spoustu času svých aktivistů, který by jinak mohli věnovat aktivismu.</para>
+
+<para>Zatřetí, zároveň chcete mít co nejméně lidí, které <indexterm><primary>Administrativa</primary></indexterm>administrativa baví. Lidé, které baví aktivismus, do&nbsp;hejna přitahují další lidi, které také baví extrovertní aktivismus. Když oproti&nbsp;tomu necháte růst počet úředníků, budou do&nbsp;hejna přitahovat stále více <indexterm><primary>Administrativa</primary></indexterm>administrativních byrokratů, a co hůře, začnou odpuzovat lidi orientované na&nbsp;aktivismus.</para>
+
+<blockquote><para>Člověk, který svůj život zasvětil papírování, ztratil veškerou iniciativu. Řeší věci, o&nbsp;kterých ho uvědomí někdo jiný, protože sám si přestal čehokoliv všímat.</para>
+<attribution>C. Northcote Parkinson</attribution></blockquote>
+
+<para>Začtvrté, což je už méně důležité, vytváří to spoustu zbytečných duplicitních výdajů — a to v&nbsp;organizaci, která už tak nemá peněz nazbyt, jak je pro&nbsp;hejna obvyklé. Poplatky za&nbsp;bankovní účet mohou stát třeba padesát eur ročně. Pro&nbsp;jednu organizaci je to snesitelná částka. Pro&nbsp;padesát právních entit je to však najednou 2&nbsp;500&nbsp;€. Sečtěte si všechny ostatní výdaje spojené s&nbsp;provozem samostatné právní entity a vynásobte je podle&nbsp;potřeby.</para>
+
+<para>Jako předseda neparlamentní strany jsem mluvil s&nbsp;lidmi ze&nbsp;starších neúspěšných neparlamentních stran, abych zjistil, kde udělaly chybu. Každá z&nbsp;těch stran bez&nbsp;výjimky uvedla jako jediný nebo jeden z&nbsp;hlavních důvodů svého neúspěchu vytvoření několika samostatných organizací s&nbsp;vlastní právní subjektivitou. Z&nbsp;toho vyplývá důležité ponaučení.</para>
+
+<para>Takže své hejno uspořádejte jako <emphasis>jedinou</emphasis> právní entitu (pokud jej vůbec jako formální právní entitu zaregistrujete). Spousta odvážných pokusů změnit svět ztroskotala na&nbsp;záměrném vytvoření vnitřních frakcí s&nbsp;tak předvídatelnými následky, jako že večer zapadne slunce.</para>
+</section>
+
+<epigraph>
+<para>29.&nbsp;dubna 2009 brzy v&nbsp;podvečer.</para>
+
+<para>Na&nbsp;některé telefonáty nikdy nezapomenete. Dokážete si vybavit vůně, okolní zvuky, svou náladu, v&nbsp;jaké poloze jste seděli, prostě celý ten okamžik, kdy jste se něco důležitého dozvěděli. Tohle byl jeden z&nbsp;takových telefonátů.</para>
+
+<para>Když brzy v&nbsp;podvečer odpočívám se&nbsp;svou přítelkyní nad&nbsp;sklenkou vína, na&nbsp;telefonu se objeví jméno a obličej Christiana Engströma a začne hrát chytlavá volební melodie „Piráti plují, Brusel je na&nbsp;dohled.“ Stisknu zelené tlačítko „přijmout hovor“ a ležérně řeknu „Jo?“ S&nbsp;Christianem mluvím často. Ozve se jeho hlas.</para>
+
+<para>„Tohle absolutně nesmí uniknout ven, ale zítra vyjde průzkum, kde máme 5,1&nbsp;procenta.“ Jako lídra kandidátky do&nbsp;eurovoleb se ho novináři ptali na&nbsp;komentáře do&nbsp;zítřejších zpráv.</para>
+
+<para>Svět se zastavil. Na&nbsp;takovou zprávu čekám již od&nbsp;1.&nbsp;ledna 2006. Vůbec poprvé budeme mít v&nbsp;průzkumu svůj vlastní sloupeček, protože takový výsledek by nám zajistil parlamentní křesla. Když v&nbsp;průzkumech překročíte hranici pro&nbsp;vstup do&nbsp;parlamentu — ve&nbsp;Švédsku jsou to 4&nbsp;procenta — vaši protivníci vás už nemohou shazovat jako recesistickou stranu a zahozený hlas: už jste vážný soupeř a očekává se, že nějaká křesla opravdu získáte.</para>
+
+<para>Za&nbsp;přesně takové uznání jsme bojovali tři a půl roku. Události posledního měsíce byly přesně tím impulzem, který jsme potřebovali, v&nbsp;podobě zavrženíhodného výsměchu spravedlnosti během&nbsp;soudu se&nbsp;správci Pirate Bay, jejich tiskovým mluvčím a čtvrtou nezúčastněnou osobou.</para>
+
+<para>Volby do&nbsp;europarlamentu jsou již za&nbsp;pět týdnů a poprvé máme v&nbsp;průzkumech výsledky, podle&nbsp;kterých se do&nbsp;Evropského parlamentu dostaneme. To znamená, že od&nbsp;teď až do&nbsp;voleb o&nbsp;nás média budou mluvit, včetně&nbsp;celé doby pro&nbsp;hlasování v&nbsp;předtermínu. Načasování prostě nemohlo být lepší. Cesta do&nbsp;Bruselu je otevřená.</para>
+
+<para>Ani ne za&nbsp;hodinu se na&nbsp;Internetu rozkřikne, že Pirátská strana v&nbsp;nejnovějším průzkumu získala 5&nbsp;procent, dlouho před&nbsp;oficiálním vydáním té zprávy. Když jsem se snažil opatrně zjistit, jestli tu zprávu předčasně nevypustil některý člen strany, brzy jsem se dozvěděl, že jsou z&nbsp;ní na&nbsp;větvi i technici, kteří sázeli, tiskli a rozváželi zítřejší noviny — tak skvělou zprávu prostě nejde uhlídat, jakmile začne tisk novin na&nbsp;několika místech napříč celou zemí.</para>
+
+<para>Těsně před&nbsp;volbami nás pak v&nbsp;průzkumech uvedou jako třetí největší stranu v&nbsp;celé zemi. I když v&nbsp;zemi s&nbsp;většinovým volebním systémem, kde se do&nbsp;parlamentu dostanou jen dvě strany, to asi moc neznamená, v&nbsp;zemi s&nbsp;poměrným zastoupením, jako je Švédsko a většina Evropy, je to něco úplně jiného. V&nbsp;takových zemích bývá v&nbsp;parlamentu pět až deset stran, a když se zdánlivě během&nbsp;měsíce z&nbsp;ničeho nic stane třetí největší stranou nějaká neznámá stranička, je to opravdu velká senzace.</para>
+
+<para>Oprava. Je to velká senzace, i když to zvládnete za&nbsp;tři a půl roku.</para>
+</epigraph>
+</chapter>

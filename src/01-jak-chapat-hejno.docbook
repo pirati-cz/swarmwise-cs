@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<chapter id="jak-chapat-hejno">
+<title>Jak chápat Hejno</title>
+
+<abstract>
+<para>Právě teď někde volně sdružená parta aktivistů zametá s&nbsp;bohatou zavedenou organizací tak tvrdě, až z&nbsp;toho přechází zrak, a skvěle se při&nbsp;tom baví. Bohaté organizace se&nbsp;spoustou zdrojů jsou zvyklé žít podle&nbsp;<indexterm><primary>Zlaté pravidlo</primary></indexterm>zlatého pravidla — „kdo má zlato, určuje pravidla.“ Nové způsoby organizace stará pravidla nejen porušují, ale přímo je trhají na&nbsp;cucky — překvapení manažeři jen zmateně zírají, jak vůbec dokázala banda chudých otrhaných neorganizovaných aktivistů porazit jejich bohatou, skvěle řízenou organizaci.</para>
+</abstract>
+
+<para>7.&nbsp;června 2009 získala švédská Pirátská strana ve&nbsp;volbách do&nbsp;europarlamentu 225&nbsp;915&nbsp;hlasů a stala se nejúspěšnější stranou v&nbsp;nejsledovanější demografické skupině do&nbsp;30&nbsp;let. Celý rozpočet naší kampaně byl 50&nbsp;000&nbsp;eur<footnote><para>Asi 1,3&nbsp;milionu korun — pozn. překl.</para></footnote>. Naši konkurenti utratili 6&nbsp;milionů eur. My utratili méně než 1&nbsp;procento jejich rozpočtu, a přesto jsme je porazili, což znamená více než <emphasis>o&nbsp;dva řády vyšší</emphasis> <indexterm><primary>Hospodárnost</primary></indexterm>hospodárnost. Za&nbsp;to vše vděčíme fungování <emphasis>formou hejna</emphasis>, a tyto postupy lze přizpůsobit pro&nbsp;téměř libovolnou organizovanou činnost velkého rozsahu. Tato kniha popisuje náš tajný recept.</para>
+
+<para>Organizace ve&nbsp;formě hejna je decentralizovaná skupina spolupracujících dobrovolníků, která navenek vypadá jako tradiční hierarchická organizace. U&nbsp;jejího zrodu stojí malá centrální skupinka, která vytvoří kostru kontaktních lidí, a tím umožní na&nbsp;společném cíli spolupracovat velkému množství dobrovolníků v&nbsp;počtech, které před&nbsp;příchodem Internetu prostě nebyly dosažitelné.</para>
+
+<para>Práce s&nbsp;hejnem vyžaduje dělat spoustu věcí zcela opačně, než jak se to učí na&nbsp;typických obchodních školách. Musíte se vzdát kontroly nad&nbsp;svou značkou a její propagací. Musíte rozdávat pravomoci do&nbsp;té míry, že v&nbsp;podstatě kdokoliv bude moci udělat skoro libovolné rozhodnutí pro&nbsp;celou organizaci. Musíte přijmout a využít to, že lidé v&nbsp;organizaci si budou dělat, co se jim zachce, a jedinou možností, jak je vést, bude inspirovat je k&nbsp;tomu, aby sami chtěli směřovat tam, kam vy chcete dovést organizaci jako celek.</para>
+
+<para>Teprve když se vzdáte kontroly, právě té kontroly, které se organizace a manažeři po&nbsp;staletí pevně drželi, můžete naplno využít výhod hejna: stejné hospodárnosti a <indexterm><primary>Rychlost</primary></indexterm>bleskové akceschopnosti, jakou měla oproti&nbsp;konkurenci švédská Pirátská strana. Tato kniha vás naučí tyto postupy, od&nbsp;samotného založení hejna přes&nbsp;jeho růst a průběžnou údržbu až po&nbsp;dosažení výsledků. Nenajdete zde teorii psychologie ani sociologie, na&nbsp;které to vše stojí — jen zkušenosti a postupy, které se v&nbsp;praxi ukázaly jako funkční.</para>
+
+<para>Když jsem zakládal hejno švédské Pirátské strany, nahrál jsem stručný <indexterm><primary>Manifest</primary></indexterm>manifest na&nbsp;celkem ošklivý web a odkaz na&nbsp;něj jsem jen jedinkrát zmínil v&nbsp;chatu jednoho sdílecího serveru. To byla veškerá propagace; druhý den měla strana stovky aktivistů. Načasování, společenské prostředí a poselství jsou nejdůležitější – ale pokud máte všechny tři, vaše počáteční hejno se během&nbsp;pár hodin sletí jako včely na&nbsp;med. Dále ho udržovat a rozšiřovat bude také důležité, ale to bude až další úkol. Všechny úkoly probereme pěkně popořadě.</para>
+
+<para>Při&nbsp;popisu konceptu hejna vás určitě napadnou totálně decentralizované mlhavé skupiny lidí jako jsou <indexterm><primary>Anonymous</primary></indexterm>Anonymous nebo hnutí <indexterm><primary>Occupy Wall Street</primary></indexterm>Occupy Wall Street. Jenže přestože tato hejna sdílejí <emphasis>hodnoty</emphasis>, nesdílejí <emphasis>směr ani postupy</emphasis>. Proto jsou jejich úspěchy omezené jen na&nbsp;malé projekty, na&nbsp;kterých se podílí relativně malý počet lidí v&nbsp;relativně krátkém časovém období, přestože každý takový malý projekt postupně buduje povědomí o&nbsp;značkách <indexterm><primary>Anonymous</primary></indexterm>Anonymous a Occupy.</para>
+
+<para>Slabou soudržnost značek <indexterm><primary>Anonymous</primary></indexterm>Anonymous a Occupy lze částečně připsat jejich rozhodnutí fungovat bez&nbsp;vůdců. Přestože tím získali odolnost, protože jejich protivníci nemohou zaútočit na&nbsp;žádného vůdce, přišli tím o&nbsp;směr a cíle. Podle&nbsp;mých zkušeností pro&nbsp;dosažení globálních změn mnohem lépe fungují běžné postupy <indexterm><primary>Zapojování</primary></indexterm>zapojování známé z&nbsp;internetových komunit v&nbsp;kombinaci se&nbsp;silným vedením než práce bez&nbsp;vůdců jen pod&nbsp;společnou vlajkou.</para>
+
+<para>Některé z&nbsp;těchto technik jsem se naučil během&nbsp;důstojnického výcviku v&nbsp;armádě a ještě více jsem se jich naučil účastí v&nbsp;mnoha online komunitách. Ale na&nbsp;tajný recept na&nbsp;hospodárnost hejna jsem přišel teprve když jsem vzal důstojnický výcvik o&nbsp;udržování silných skupinových hodnot, přimíchal silné participační hodnoty a levnou hromadnou komunikaci Internetu a přidal špetku manažerských zkušeností z&nbsp;<indexterm><primary>Doba internetové horečky</primary></indexterm>doby internetové horečky na&nbsp;přelomu století.</para>
+
+<para><indexterm><primary>Doba internetové horečky</primary></indexterm>Doba internetové horečky byla pro&nbsp;manažery v&nbsp;IT oborech dost zvláštní. Pokud se vašim lidem nelíbilo něco, co jste řekli na&nbsp;ranní poradě, tak s&nbsp;úsměvem vypochodovali z&nbsp;budovy a ještě před&nbsp;obědem měli novou práci. Vaše peníze pro&nbsp;ně byly mnohem snadněji nahraditelné, než oni byli nahraditelní pro&nbsp;vás jako zaměstnanci. Prostě nepracovali pro&nbsp;peníze.</para>
+
+<para>Proto se tahle zkušenost dá přenést i na&nbsp;práci s&nbsp;dobrovolníky, kde také nikdo nepracuje pro&nbsp;peníze (protože nikdo žádné nedostává). Klíčem jsou vůdčí schopnosti a odměňování prospěšného chování.</para>
+
+<para>Zřejmě tím nejpodstatnějším je, že v&nbsp;hejnu je vždy kladen důraz na&nbsp;to, co každý <emphasis>může</emphasis> udělat, a nikdy ne na&nbsp;to, co lidé <emphasis>nesmějí</emphasis> nebo <emphasis>musejí</emphasis> dělat.</para>
+
+<important><para>V&nbsp;hejnu je vždy kladen důraz na&nbsp;to, co každý může udělat.</para></important>
+
+<para>Tím se zcela odlišuje od&nbsp;tradičních korporací a demokratických institucí, kde je největší důraz kladen na&nbsp;to, co lidé <emphasis>musejí</emphasis> dělat a z&nbsp;jakých mantinelů <emphasis>nesmějí vybočit</emphasis>. Tento rozdíl je jedním z&nbsp;důvodů, proč hejno dokáže být tak efektivní: každý si ze&nbsp;seznamu doporučených úkolů, které hejno posunou blíže k&nbsp;cíli, může vybrat právě to, co ho bude bavit dělat pořád — a nikdo lidem nebude říkat, jak se to musí nebo nesmí dělat.</para>
+
+<para>Zvláště se lidé inspirují navzájem. Aktivisté nepodávají hlášení nadřízeným. Protože aktivisté neustále komunikují každý s&nbsp;každým, úspěšné projekty se rychle šíří do&nbsp;ostatních částí hejna. Z&nbsp;méně úspěšných projektů se hejno poučí a jede se dál, aniž by někdo někoho obviňoval.</para>
+
+<para>Pokud se v&nbsp;hejnu chcete ujmout vedení, musíte si stoupnout a říct: <emphasis>„Udělám X, protože tím podle&nbsp;mě dosáhneme Y. Kdo mi chce s&nbsp;X pomoct, je vítán.“</emphasis> V&nbsp;hejnu tohle může říct kdokoliv a všichni jsou k&nbsp;tomu povzbuzováni. Tím rychle vzniká neformální, ale velmi silná vůdčí struktura, ve&nbsp;které lidé obsazují role maximalizující jejich vliv na&nbsp;prosazování cílů hejna — to vše se děje živelně bez&nbsp;jakéhokoliv centrálního plánování nebo organizačních schémat.</para>
+
+<important><para>Hejno je vedeno z&nbsp;přední linie. Když se někdo pustí do&nbsp;iniciativy, obvykle dostane volnou ruku.</para></important>
+
+<para>Sečteno a podtrženo, hejno se od&nbsp;tradičních organizací odlišuje bleskovou <indexterm><primary>Rychlost</primary></indexterm>rychlostí, téměř nulovými provozními náklady a velkým počtem oddaných dobrovolníků. Zevnitř hejna to vypadá, že tradiční organizace a demokratické instituce pracují přímo <indexterm><primary>Rychlost</primary></indexterm><emphasis>šnečím</emphasis> tempem. Proto také hejno dokáže změnit svět: z&nbsp;hlediska kvality a množství odvedené práce i efektivity využití zdrojů nechává tradiční organizace v&nbsp;prachu daleko za&nbsp;sebou.</para>
+
+<section id="hejno-je-otevrene">
+<title>Hejno je <indexterm><primary>Otevřenost</primary></indexterm>otevřené...</title>
+
+<para>Význačnou vlastností hejna je otevřenost všem lidem, kteří se chtějí podílet na&nbsp;plnění úkolů. Vlastně je to mnohem více než jen otevřenost — všichni lidé z&nbsp;celého světa jsou <emphasis>zváni</emphasis>, aby si z&nbsp;veřejného seznamu vybrali úkoly a začali je plnit, aniž by se někoho ptali na&nbsp;dovolení. Neexistuje tu žádné přijímací řízení. Každý, kdo chce přispět k&nbsp;dosažení cíle svým vlastním způsobem a podle&nbsp;svých vlastních možností, má k&nbsp;tomu volnou ruku. To ostře kontrastuje s&nbsp;přijímacím řízením v&nbsp;tradičních organizacích, kde lidé před&nbsp;nástupem do&nbsp;práce musejí projít nějakou formou zkoušek.</para>
+
+<para>Výhodou tohoto přístupu je, že se zdroji hejna neplýtvá na&nbsp;stavbu překážek, aby se lidé nedostali dovnitř, ale využívají se k&nbsp;<emphasis>zapojování</emphasis> nových lidí. Pravda, když nikdo nikomu neříká, co dělat, tak na&nbsp;stejném úkolu bude duplicitně pracovat několik lidí — ale výsledkem bude několik různých řešení, která se vyzkoušejí nezávisle na&nbsp;sobě a hejno rychle zjistí, která fungují a která ne. Práce pak bude probíhat metodou iterativního evolučního procesu pokusu a omylu, neustálého přizpůsobování a vylepšování, aniž by nad&nbsp;tím musel někdo dohlížet.</para>
+
+<para>Otevřenost a přívětivost k&nbsp;nováčkům je klíčovým rysem hejna.</para>
+</section>
+
+<section id="hejno-je-transparentni">
+<indexterm class="startofrange" id="index-transparentnost-sekce"><primary>Transparentnost</primary></indexterm>
+<title>...a transparentní</title>
+
+<para>Hejno není jen otevřené, jedním z&nbsp;jeho rysů je i <emphasis>transparentnost</emphasis>. Prakticky v&nbsp;něm neexistují skoro žádná tajemství. Pro&nbsp;lidi přicházející z&nbsp;tradičních organizací to může být neuvěřitelná představa.</para>
+
+<para>Vše je automaticky transparentní. <indexterm><primary>Účetní záznamy</primary></indexterm>Účetní záznamy jsou všem veřejně přístupné. Diskuze o&nbsp;strategii a taktice jsou všem veřejně přístupné (a každý se jich může zúčastnit). Spory se řeší zcela veřejně. To protože veškerá diskuze probíhá na&nbsp;místě, kde ji může sledovat kdokoliv.</para>
+
+<para>Tím je zajištěna vzájemná <indexterm><primary>Důvěra</primary></indexterm>důvěra. Protože každý si může přečíst veškeré informace a diskuze z&nbsp;celé organizace, vzniká tím velmi silný pocit <indexterm><primary>Sounáležitost</primary></indexterm>sounáležitosti.</para>
+
+<para>Zároveň to působí jako velmi účinná ochrana proti&nbsp;drbům. Je to očkování proti&nbsp;nedůvěře, protože nedůvěra vyžaduje nedostatek informací a aby si lidé z&nbsp;neúplných dat dělali vlastní závěry.</para>
+
+<para>Transparentnost navíc účinně brání skandalizaci: média několikrát ve&nbsp;švédské Pirátské straně zavětřila spory a snažila se z&nbsp;nich udělat typickou bulvární senzaci, což by normální organizaci potopilo — jenže protože každý čtenář těch článků mohl jít přímo ke&nbsp;zdroji a přečíst si samotnou původní výměnu názorů, nevznikly žádné drby a žádné „ten řekl to, ta zase ono.“ Když je vše takto transparentní, spory nepřerůstají mimo&nbsp;kontrolu.</para>
+
+<para>To samozřejmě neznamená, že by se musela nahrávat každá debata nad&nbsp;kávou nebo pivem. To by bylo přehnaně pracné a stejně by se to nedalo vymáhat. Ale znamená to, že se lidem aktivně nebrání v&nbsp;přístupu k&nbsp;informacím, které jsou jiným lidem dostupné — takže když se diskuze vedou online, zůstávají zaznamenané a čitelné.</para>
+
+<blockquote><para>„Střezte se těch, kteří by vám chtěli odepřít přístup k&nbsp;informacím, protože se v&nbsp;duchu vidí být vašimi pány.“</para>
+<attribution><indexterm><primary>Komisař Pravin Lal</primary></indexterm>Komisař Pravin Lal</attribution></blockquote>
+
+<para>V&nbsp;těch několika málo případech, kdy je něco utajováno, je to v&nbsp;zájmu ochrany soukromí členů hejna a kdokoliv si může snadno zjistit, jaké konkrétní informace jsou utajovány — a především <emphasis>proč</emphasis> jsou utajovány a kdo je zná.</para>
+
+<para>Příkladem legitimního tajemství v&nbsp;hejnu může být totožnost dárců, a to v&nbsp;zájmu jejich ochrany a předejití střetu zájmů, protože lidé by se místo&nbsp;plnění hlavních cílů hejna snažili vědomě či nevědomě zavděčit nejštědřejším dárcům. Osoba pověřená správou bankovního účtu by totožnost dárců znala, ale měla by povinnost nechat si ji pro&nbsp;sebe.</para>
+
+<para>V&nbsp;neposlední řadě plná transparentnost odstraňuje problém tradičních hierarchických struktur, kde v&nbsp;případě, že každý článek v&nbsp;hierarchii velení představuje informační překážku, může někdo uprostřed vědomě či nevědomě překrucovat informace předávané jedním nebo druhým směrem. Díky&nbsp;zpřístupnění všech informací všem nemá nikdo možnost překroutit je před&nbsp;částí organizace. Obdobně v&nbsp;hejnu nikdo nemluví za&nbsp;ostatní, protože každý může mluvit sám za&nbsp;sebe. To brání vzniku frakcí, protože tu nejsou klasičtí nižší manažeři, kteří by mohli vytyčovat své vlastní cíle, které budou v&nbsp;rozporu s&nbsp;cíli zbytku hejna.</para>
+<indexterm class="endofrange" startref="index-transparentnost-sekce"/>
+</section>
+
+<section id="tak-vy-mate-provokativni-napad">
+<title>Takže vy máte provokativní nápad?</title>
+
+<para>Tuto knihu čtete nejspíše proto, že v&nbsp;hlavě nosíte jeden nebo několik provokativních nápadů a hledáte způsob, jak je realizovat. Takže tady začíná ta nudná část jejich realizace: spočítali jste si to?</para>
+
+<para>Ve&nbsp;všech hejnech jde o&nbsp;množství. Množství <emphasis>lidí</emphasis>. Jako u&nbsp;mravenců legionářů z&nbsp;amazonských pralesů jde o&nbsp;udolání protivníka <emphasis>čirou početní převahou</emphasis> skrze&nbsp;lepší schopnost organizace a nasměrování energie dobrovolníků — díky&nbsp;své organizační obratnosti můžete být vždy mnohem silnější než vaši protivníci, kdykoliv a kdekoliv se jim rozhodnete postavit, stejně jako mravenci legionáři přemohou protivníka svou schopností rychle nasměrovat a přeskupit svou lokální početní převahu.</para>
+
+<para>Tohle je tedy první překážka, kterou váš nápad musí překonat. Týká se váš nápad dostatečného počtu lidí a podaří se jich dost nadchnout, aby přispěli k&nbsp;překonání kritického množství? Lze toto kritické množství určit, a pokud ano, kolik lidí se musí přidat, aby váš nápad uspěl?</para>
+
+<para>Jak je vidět, tady to začíná být trochu tradiční. Musíme pro&nbsp;nápad určit kritérium úspěchu. Jaká událost <emphasis>představuje úspěch</emphasis> a co je pro&nbsp;to třeba udělat?</para>
+
+<para>Pro&nbsp;novou politickou stranu jako švédská Pirátská strana se kritérium úspěchu určí snadno: <emphasis>být zvoleni</emphasis>. Na&nbsp;cestě k&nbsp;tomuto cíli je samozřejmě třeba udělat mnoho malých kroků, a mnoho dalších kroků je třeba udělat i po&nbsp;jeho dosažení (například <emphasis>zůstat</emphasis> zvoleni). Ale je to konkrétní cíl, se&nbsp;kterým lze něco dál dělat.</para>
+
+<para>Podívejme se teď, jak si stojí tento cíl.</para>
+
+<para>Potřebovali bychom kvalitní aktivisty a velké množství voličů. Politika je koneckonců pouze hra čísel. Je to sport provozovaný na&nbsp;veřejnosti pro&nbsp;diváky.</para>
+
+<para>V&nbsp;případě Pirátské strany nám počty příznivců zajišťovalo sdílení souborů. V&nbsp;roce 2006 ve&nbsp;Švédsku asi 1,2&nbsp;milionu občanů — <emphasis>voličů</emphasis> — sdílelo kulturu a vědomosti v&nbsp;rozporu s&nbsp;kopírovacím monopolem, a neviděli na&nbsp;tom nic špatného, ale státní moc je za&nbsp;to stále aktivně perzekvovala.</para>
+
+<para>Na&nbsp;zvolení do&nbsp;parlamentu je třeba 225&nbsp;000&nbsp;hlasů. To znamená, že kdyby se pouhá čtvrtina takto perzekvovaných lidí dostatečně naštvala a nenechala si takové zacházení líbit, Pirátská strana by se dostala do&nbsp;parlamentu. To byl náš cíl, který jsme od&nbsp;prvního dne vyvěsili na&nbsp;svém webu: 225&nbsp;000&nbsp;hlasů. Bylo to realistické, bylo to dosažitelné, každý se mohl zapojit a změnilo by to svět.</para>
+
+<para>V&nbsp;tomto sporu samozřejmě hrály roli i další společenské faktory, společným jmenovatelem byla svoboda slova a projevu spolu s&nbsp;obecnou svobodou na&nbsp;Internetu. Jenže když začnete mluvit o&nbsp;abstraktních pojmech, své potenciální dobrovolníky tím unudíte k&nbsp;smrti. Aby hejno přerostlo kritickou velikost, budeme potřebovat co největší dosah náboru nováčků a myšlenky, které si lidé snadno dají do&nbsp;souvislosti se&nbsp;svým každodenním životem.</para>
+
+<para>Po&nbsp;vstupu do&nbsp;hejna se budou lidé a aktivisté snažit tyto myšlenky pochopit hlouběji. To je také nezbytné. Jenže vnější rozměr poselství hejna musí být dost velký na&nbsp;to, aby přilákalo dostatečný počet lidí pro&nbsp;dosažení úspěchu.</para>
+
+<para>Váš nápad musí být možné takto převést na&nbsp;čísla. Kolik potřebujete pro&nbsp;úspěch lidí zapojených na&nbsp;nejnižším stupni angažovanosti, kterému odpovídá hlasování ve&nbsp;volbách, nákup produktu nebo podepsání petice?</para>
+
+<para>Musíte najít skupinu lidí, na&nbsp;které bude mít váš provokativní nápad pozitivní dopad, odhadnout velikost této skupiny a udělat informovaný odhad, jak velká část této skupiny by se mohla zapojit do&nbsp;hejna na&nbsp;nejnižší úrovni aktivity.</para>
+
+<para>Pamatujte si ale o&nbsp;jakých řádech počtů lidí se tu bavíme. V&nbsp;hejnu typicky působí stovky tisíc, někdy i miliony lidí. O&nbsp;provoz a koordinaci se starají tisíce lidí, kteří hejnu pomáhají ve&nbsp;volném čase, a možná — opravdu jen možná — to vše na&nbsp;plný úvazek koordinují jeden nebo dva lidé.</para>
+
+<para>Vašemu hejnu může samozřejmě k&nbsp;úspěchu stačit zapojit mnohem méně než milion lidí. To musíte vědět vy. Ale aspoň ta čísla musíte co nejpřesněji odhadnout.</para>
+
+<para>Je to těžké, protože nic lepšího než odhad stejně neseženete. Například strana za&nbsp;práva žen má ve&nbsp;Švédsku — které už tak patří mezi&nbsp;země s&nbsp;nejvyšší rovnoprávností obou pohlaví na&nbsp;světě — potenciál oslovit celou polovinu všech voličů. Jenže jde vůbec aktivizovat dostatečnou část těchto lidí kolem&nbsp;myšlenky ještě větší rovnoprávnosti pohlaví? (Někteří to zkoušeli. Ukázalo se, že to nejde.)</para>
+
+<para>Oproti&nbsp;tomu v&nbsp;roce 2009, tři roky po&nbsp;svém založení, dostala švédská Pirátská strana 225&nbsp;915&nbsp;hlasů ve&nbsp;volbách do&nbsp;Evropského parlamentu a získala tak svá první parlamentní křesla. Můj původní odhad 225&nbsp;000&nbsp;hlasů se tak krásně vyplnil.</para>
+
+<para>Ve&nbsp;zbytku knihy se tedy důkladně podíváme na&nbsp;vaši představu, jak zformovat hejno, a řekneme si, co je třeba k&nbsp;její realizaci po&nbsp;vzoru švédské Pirátské strany, která to již úspěšně dokázala a začala měnit svět.</para>
+
+<para>Nejprve se podíváme na&nbsp;období těsně po&nbsp;založení hejna, které může být dost divoké, a probereme, jak lze zorganizovat kostru kontaktních lidí — <emphasis>důstojníků</emphasis> — aby hejno mohlo obsadit celý prostor, který plánujete pokrýt. Budeme probírat techniky a postupy pro&nbsp;samotné hejno, včetně&nbsp;tak praktických záležitostí jako je rozdávání letáků a jak naučit lidi rozdávat letáky efektivně.</para>
+
+<para>Dále se podrobně podíváme, jak se dá spravovat každodenní provoz hejna — budeme potřebovat jeden díl klasického <indexterm><primary>Řízení projektů</primary></indexterm>řízení projektů, jeden velký díl zkušeností s&nbsp;<indexterm><primary>Řešení sporů</primary></indexterm>řešením sporů a jeden díl postupů na&nbsp;zachování cílů, kultury a hodnot hejna během&nbsp;jeho růstu.</para>
+
+<para>Nakonec se podíváme, jak výsledné hejno využít k&nbsp;dosažení těch rozsáhlých výsledků, které změní svět, a co se stane, když uspějete <emphasis>až moc</emphasis>.</para>
+
+<para>Ale pěkně jedno po&nbsp;druhém. Vraťme se k&nbsp;tomu provokativnímu nápadu, který nosíte v&nbsp;hlavě, a proberme, jak začít s&nbsp;jeho realizací.</para>
+</section>
+
+<epigraph>
+<para>1.&nbsp;ledna 2006 ve&nbsp;20:30 středoevropského času.</para>
+
+<para>Během&nbsp;vánočního volna jsem ve&nbsp;volném čase připravoval web Pirátské strany. Zítřek bude běžný pracovní den a první den nového roku se chýlí ke&nbsp;konci. Dodělám rozpracovanou část stránky, vše nedokončené nahradím popiskem „Připravujeme“ a nahraji stránku na&nbsp;Internet.</para>
+
+<para>Po&nbsp;spuštění tohoto primitivního webu jsem se rozhodl opatrně a nenápadně na&nbsp;něj upozornit veřejnost. Abych si prověřil terén, připojil jsem se do&nbsp;hlavního chatu sdílecího serveru Ancient Spirit, kam chodím jen zřídka, a napsal jsem dva řádky:</para>
+
+<literallayout>„Podívejte, Pirátská strana po&nbsp;novém roce spustila web.
+<ulink url="http://www.piratpartiet.se/">http://www.piratpartiet.se/</ulink>“</literallayout>
+
+<para>Když jsem se podíval na&nbsp;webový server, viděl jsem první vlnu návštěvníků, kteří přišli okamžitě po&nbsp;odeslání mých dvou řádků do&nbsp;chatu, bylo jich asi tucet. Pak se začala trousit druhá vlna návštěvníků, které na&nbsp;mou iniciativu upozornil někdo z&nbsp;té první vlny. Začaly přicházet první elektronické podpisy na&nbsp;podporu úřední registrace strany. Po&nbsp;třiceti podpisech a dalších dvou hodinách si říkám, že s&nbsp;takovým rozjezdem bych měl být spokojený, udělám kompletní zálohu a jdu se vyspat na&nbsp;zítřejší pracovní den.</para>
+
+<para>Přes&nbsp;noc se vše rozkřiklo a zájem se vystupňoval, aniž bych o&nbsp;tom něco tušil.</para>
+
+<para>Následující den, 2.&nbsp;ledna, jsem šel normálně do&nbsp;práce a z&nbsp;pracovního rána ještě ani neuplynulo moc hodin, když jsem si přečetl zprávu na&nbsp;mailing listu Mensy, který odebírám: „Neznáme náhodou toho Ricka Falkvingeho, o&nbsp;kterém dnes píšou noviny?“</para>
+
+<para>Nevěřícně jsem zamrkal. Moment, cože? „O&nbsp;kterém dnes píšou noviny?“</para>
+</epigraph>
+</chapter>

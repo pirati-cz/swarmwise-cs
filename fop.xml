@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<fop version="1.0">
+	<base>./</base>
+	<font-base>./fonts/</font-base>
+	<hyphenation-base>./hyph/</hyphenation-base>
+	<renderers>
+		<renderer mime="application/pdf">
+			<fonts>
+				<auto-detect/>
+			</fonts>
+		</renderer>
+	</renderers>
+</fop>

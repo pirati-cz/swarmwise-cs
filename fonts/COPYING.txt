@@ -1,0 +1,5 @@
+Cardo and Liberation fonts are licensed under Open Font License 1.1. See OFL.txt
+for license terms.
+
+Ubuntu font is licensed under Ubuntu Font License. See UFL.txt for license
+terms.

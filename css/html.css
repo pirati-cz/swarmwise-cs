@@ -1,0 +1,14 @@
+div.highlights {
+	margin-top: 36pt;
+	margin-bottom: 36pt;
+}
+
+.book > .titlepage .titlepage-recto {
+	margin-top: 64pt;
+	margin-bottom: 64pt;
+}
+
+.part > .titlepage {
+	margin-top: 72pt;
+	margin-bottom: 72pt;
+}

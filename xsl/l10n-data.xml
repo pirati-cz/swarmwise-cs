@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
+  <l:l10n language="cs">
+    <l:gentext key="translation" text="Překlad"/>
+    <!-- Just the component type without title itself, title should go below -->
+    <l:context name="title">
+      <l:template name="figure" text="Diagram %n. %t"/>
+    </l:context>
+    <l:context name="title-unnumbered">
+      <l:template name="chapter" text=""/>
+    </l:context>
+    <l:context name="title-numbered">
+      <l:template name="chapter" text="%n. %t"/>
+    </l:context>
+    <l:context name="index">
+      <l:template name="term-separator" text=""/>
+    </l:context>
+  </l:l10n>
+</l:i18n>

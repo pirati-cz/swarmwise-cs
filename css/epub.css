@@ -1,0 +1,35 @@
+body {
+	text-align: justify;
+}
+
+p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-indent: 15pt;
+}
+
+li p {
+	text-indent: 0pt;
+}
+
+div.highlights {
+	padding-top: 72pt;
+}
+
+nav a {
+	color: black;
+	text-decoration: none;
+}
+
+.book > .titlepage .titlepage-recto {
+	padding-top: 108pt;
+	margin-bottom: 108pt;
+}
+
+.part > .titlepage {
+	padding-top: 72pt;
+}
+
+.chapter > .titlepage {
+	padding-top: 18pt;
+}
