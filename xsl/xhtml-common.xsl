@@ -141,8 +141,8 @@ book      title
       <xsl:when test="local-name(d:listitem/*[1]) = 'para'">
         <xsl:variable name="termcontent">
           <span class="term">
-            <xsl:apply-templates select="d:term"/>
-  	</span>
+            <strong><xsl:apply-templates select="d:term"/></strong>
+          </span>
         </xsl:variable>
         <xsl:apply-templates select="d:listitem/*[1]">
           <xsl:with-param name="extracontent">

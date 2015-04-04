@@ -5,7 +5,7 @@ body {
 p {
 	margin-top: 0px;
 	margin-bottom: 0px;
-	text-indent: 15pt;
+	text-indent: 1.4em;
 }
 
 li p {
@@ -32,4 +32,18 @@ nav a {
 
 .chapter > .titlepage {
 	padding-top: 18pt;
+}
+
+.front-cover {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.front-cover img {
+	display: inline-block;
 }

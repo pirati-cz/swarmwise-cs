@@ -49,12 +49,11 @@
 
 body {
 	padding: 1em;
-	font-size: 11pt;
 	font-family: Cardo;
 }
 
 ul {
-	padding-left: 15pt;
+	padding-left: 1.4em;
 }
 
 li p {
@@ -69,7 +68,7 @@ div.abstract {
 .highlights p {
 	text-align: center;
 	text-indent: 0px;
-	font-size: 12pt;
+	font-size: 1.1em;
 	margin-top: 1em;
 }
 
@@ -82,7 +81,7 @@ div.epigraph {
 table.important {
 	border-top: medium solid gray;
 	border-bottom: medium solid gray;
-	font-size: 13pt;
+	font-size: 1.2em;
 	font-weight: bold;
 	color: gray;
 	width: 100%;
@@ -112,13 +111,13 @@ table.important {
 div.blockquote {
 	border-top: medium solid #C0C0C0;
 	border-bottom: medium solid #C0C0C0;
-	font-size: 13pt;
+	font-size: 1.2em;
 	font-weight: normal;
 	color: gray;
 	margin-top: 1em;
 	margin-bottom: 1em;
-	margin-left: 14pt;
-	margin-right: 14pt;
+	margin-left: 1.3em;
+	margin-right: 1.3em;
 	padding-top: 1ex;
 	padding-bottom: 1ex;
 	font-variant: small-caps;
@@ -170,7 +169,7 @@ div.literallayout {
 }
 
 h6 {
-	font-size: 12pt;
+	font-size: 1.1em;
 	font-weight: bold;
 	margin-top: 1em;
 	margin-bottom: 1em;
@@ -182,7 +181,6 @@ div.example, div.informalexample {
 	margin-bottom: 1em;
 	border: thin solid #C0C0C0;
 	background-color: #E6E6E6;
-	font-size: 11pt;
 	padding: 1em;
 }
 
@@ -194,29 +192,31 @@ div.example > :last-child, div.informalexample > :last-child {
 	margin-bottom: 0px;
 }
 
-.term {
-	font-weight: bold;
-}
-
 div.figure, div.mediaobject {
+	max-width: 1000px;
 	width: 100%;
 	text-align: center;
 	margin-top: 1em;
 	margin-bottom: 1em;
+	margin-left: auto;
+	margin-right: auto;
 	page-break-inside: avoid;
 }
 
 .mediaobject img {
-	max-width: 1000px;
+	max-width: 100%;
+	width: auto;
+	height: auto;
+	display: inline-block;
 }
 
 div.toc-title {
-	font-size: 17pt;
+	font-size: 1.54em;
 	font-weight: bold;
 }
 
 .toc .part > .title, .toc .appendix > .title {
-	font-size: 13pt;
+	font-size: 1.2em;
 	font-weight: bold;
 	text-decoration: underline;
 	margin-top: 2em;
@@ -224,7 +224,7 @@ div.toc-title {
 }
 
 .toc .chapter > .title {
-	margin-top: 10pt;
+	margin-top: 1em;
 	font-weight: bold;
 }
 
@@ -238,13 +238,13 @@ div.toc-title {
 
 .book > .titlepage .titlepage-recto {
 	text-align: center;
-	max-width: 360pt;
+	max-width: 33em;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 .impressum, .colophon {
-	font-size: 8pt;
+	font-size: 0.7em;
 }
 
 .impressum .legalnotice {
@@ -253,7 +253,7 @@ div.toc-title {
 }
 
 .impressum .isbn {
-	font-size: 10pt;
+	font-size: 1.25em;
 	margin-top: 1em;
 }
 
@@ -263,7 +263,7 @@ div.toc-title {
 }
 
 .book > .titlepage .title {
-	font-size: 52pt;
+	font-size: 4.7em;
 	font-weight: normal;
 	font-variant: small-caps;
 	margin-top: 0pt;
@@ -273,40 +273,40 @@ div.toc-title {
 }
 
 .book > .titlepage .subtitle {
-	font-size: 16pt;
+	font-size: 1.45em;
 	font-style: italic;
 	font-weight: normal;
 	margin-top: 11pt;
 	margin-bottom: 6pt;
 }
 
-.book > .titlepage .author {
-	font-size: 22pt;
+.book > .titlepage h3.author {
+	font-size: 2em;
 	font-weight: normal;
 	margin-top: 36pt;
 }
 
 .part > .titlepage {
 	text-align: center;
-	max-width: 360pt;
+	max-width: 33em;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 .part > .titlepage .title-prefix {
-	font-size: 54pt;
+	font-size: 4.9em;
 	padding-bottom: 11pt;
 	margin-bottom: 26pt;
 	border-bottom: 1px solid black;
 }
 
 .part > .titlepage .title {
-	font-size: 24pt;
+	font-size: 2.2em;
 }
 
 .chapter > .titlepage {
 	text-align: center;
-	max-width: 360pt;
+	max-width: 33em;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 43pt;
@@ -314,12 +314,12 @@ div.toc-title {
 }
 
 .chapter > .titlepage .title-prefix {
-	font-size: 13pt;
+	font-size: 1.2em;
 	margin-bottom: 7pt;
 }
 
 .chapter > .titlepage .title {
-	font-size: 22pt;
+	font-size: 2em;
 	font-weight: bold;
 }
 
@@ -329,25 +329,35 @@ div.toc-title {
 	text-align: left;
 }
 
-.section .titlepage h2, .colophon h1 {
-	font-size: 14pt;
+.section .titlepage h2 {
+	font-size: 1.27em;
+	font-weight: bold;
+	page-break-after: avoid;
+}
+
+.colophon h1 {
+	font-size: 1.8em;
 	font-weight: bold;
 	page-break-after: avoid;
 }
 
 .section .titlepage h3 {
-	font-size: 13pt;
+	font-size: 1.2em;
 	font-weight: bold;
 	page-break-after: avoid;
 }
 
 .front-cover, .back-cover {
-	max-width: 360pt;
 	margin-left: auto;
 	margin-right: auto;
-	background-color: #322D59;
-	font-size: 12pt;
+	font-size: 1.1em;
 	color: #EBD69E;
+	padding: 0px;
+}
+
+.back-cover {
+	max-width: 33em;
+	background-color: #322D59;
 }
 
 .front-cover a, .back-cover a {
@@ -356,11 +366,15 @@ div.toc-title {
 }
 
 .front-cover img, .back-cover img {
-	display: block;
+	background-color: #322D59;
 	max-width: 100%;
 	max-height: 100%;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.back-cover img {
+	display: block;
 }
 
 .front-cover .abstract, .back-cover .abstract {
